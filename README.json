@@ -1,1175 +1,1259 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "Notations:",
       "items": [
         {
-          "node_type": "item",
-          "title": "quntoken",
-          "description": "👌🚀💯 New Hungarian tokenizer based on quex, huntoken",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-03-15T09:55:37Z",
-            "owner": "nytud",
-            "repo": "quntoken",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "huntoken",
-          "description": "👌🚀💯 Hungarian word and sentence splitter",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2014-11-27T10:00:26Z",
-            "owner": "zseder",
-            "repo": "huntoken",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Word tokenization, sentence splitting"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Simplemma",
-          "description": "👌🚀💯 is a simple multilingual lemmatizer for Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T13:48:33Z",
-            "owner": "adbar",
-            "repo": "simplemma",
-            "stars": 215
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lara-hungarian-nlp",
-          "description": "👌🚀💯 LARA is a lightweight Python NLP library for ChatBots in Hungarian.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-03-07T13:41:05Z",
-            "owner": "sedthh",
-            "repo": "lara-hungarian-nlp",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emMorph (Humor)",
-          "description": "💯 Hungarian morphological analyzer based on Humor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2022-01-20T15:36:53Z",
-            "owner": "nytud",
-            "repo": "emMorph",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hunmorph-foma",
-          "description": "🚀💯 Hungarian morpholical analyzer and generator based on hunmorph.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2016-02-24T16:59:07Z",
-            "owner": "r0ller",
-            "repo": "hunmorph-foma",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emMorphPy",
-          "description": "👌💯A wrapper, a lemmatizer and REST API implemented in Python for emMorph (Humor) Hungarian morphological analyzer",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-11-06T20:30:23Z",
-            "owner": "ppke-nlpg",
-            "repo": "emmorphpy",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lemmagen",
-          "description": "👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. (Python package for v3 | C# project for v3)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2017-10-13T19:54:24Z",
-            "owner": "oroszgy",
-            "repo": "lemmagen3",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Morphology"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "PurePos",
-          "description": "👌🚀 Open source morphological tagger based on HunPos",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-10-13T09:55:19Z",
-            "owner": "ppke-nlpg",
-            "repo": "purepos",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "purepos.py",
-          "description": "👌🚀 Python wrapper for PurePos",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-12-14T19:31:35Z",
-            "owner": "ppke-nlpg",
-            "repo": "purepospy",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "PoS / Morphological taggers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DBpedia Spotlight",
-          "description": "👌🚀💯 DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. Docker image",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Scala",
-            "last_commit": "2018-03-08T12:37:40Z",
-            "owner": "dbpedia-spotlight",
-            "repo": "dbpedia-spotlight",
-            "stars": 760
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HunTag",
-          "description": "👌🚀 A sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-01-18T08:52:12Z",
-            "owner": "recski",
-            "repo": "HunTag",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HunTag3",
-          "description": "👌🚀 Improved version of the original HunTag",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lex",
-            "last_commit": "2019-11-06T20:04:52Z",
-            "owner": "ppke-nlpg",
-            "repo": "HunTag3",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emBERT",
-          "description": "👌🚀💯 is an emtsv module for pre-trained Transfomer-based models. It provides tagging models based on Huggingface's transformers package.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-02T10:02:13Z",
-            "owner": "DavidNemeskey",
-            "repo": "emBERT",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Taggers / Chunkers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Stanza",
-          "description": "👌🚀💯 is a Python NLP Library for Many Human Languages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T15:07:33Z",
-            "owner": "stanfordnlp",
-            "repo": "stanza",
-            "stars": 7864
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "trankit",
-          "description": "👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-22T19:16:10Z",
-            "owner": "nlp-uoregon",
-            "repo": "trankit",
-            "stars": 795
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spaCy StanfordNLP",
-          "description": "👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-08-15T16:33:50Z",
-            "owner": "explosion",
-            "repo": "spacy-stanza",
-            "stars": 746
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HuSpaCy",
-          "description": "👌🚀💯 Industrial-strength Hungarian Natural Language Processing",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-19T18:19:37Z",
-            "owner": "huspacy",
-            "repo": "huspacy",
-            "stars": 190
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emtsv",
-          "description": "👌💯 is a text processing system with inter-module communication via tsv + REST API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-23T22:13:34Z",
-            "owner": "nytud",
-            "repo": "emtsv",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "huNLP",
-          "description": "👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2017-08-29T13:45:58Z",
-            "owner": "oroszgy",
-            "repo": "hunlp",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hunlp-GATE",
-          "description": "💯 GATE plugin containing Hungarian NLP tools as GATE processing resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-02-19T15:46:43Z",
-            "owner": "nytud",
-            "repo": "hunlp-GATE",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eszterland",
-          "description": "👌💯 Clojurized access to magyarlanc",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2023-11-06T17:16:14Z",
-            "owner": "damesek",
-            "repo": "eszterlanc",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Trendminer Hungarian Processing Pipeline",
-          "description": "🚀 Hungarian NLP pipeline for social media text analysis (TrendMiner project)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2014-09-30T16:08:48Z",
-            "owner": "mmihaltz",
-            "repo": "trendminer-hunlp",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "magyarlanc_spark",
-          "description": "👌💯 Spark wrapper for magyarlanc",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2017-04-19T14:51:15Z",
-            "owner": "tyson925",
-            "repo": "magyarlanc_spark",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Pipelines with Hungarian NLP components"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "benepar",
-          "description": "👌🚀💯 A high-accuracy parser with models for 11 languages, implemented in Python. Based on Constituency Parsing with a Self-Attentive Encoder from ACL 2018.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-01-10T15:48:34Z",
-            "owner": "nikitakit",
-            "repo": "self-attentive-parser",
-            "stars": 912
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HunParse",
-          "description": "🚀💯 An NLTK-based parser using KR-style morphological annotation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2012-08-17T14:55:36Z",
-            "owner": "recski",
-            "repo": "HunParse",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anagramma Parser",
-          "description": "A parser based on psycholinguistics principles",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-11-12T11:38:00Z",
-            "owner": "ppke-nlpg",
-            "repo": "AnaGramma-Parser",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Syntactic parsers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SentimentAnalysisHUN",
-          "description": "👌🚀💯 is an open-source sentiment analysis tool for Hungarian language, written in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-10-31T14:53:23Z",
-            "owner": "dhuszti",
-            "repo": "SentimentAnalysisHUN",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hun-date-parser",
-          "description": "👌🚀💯 A tool for extracting datetime intervals from Hungarian sentences and turning datetime objects into Hungarian text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-13T15:39:23Z",
-            "owner": "szegedai",
-            "repo": "hun-date-parser",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "Semantic analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "neural-punctuator",
-          "description": "👌🚀💯 Automatic punctuation restoration with BERT models for English and Hungarian",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-11-06T08:11:56Z",
-            "owner": "attilanagy234",
-            "repo": "neural-punctuator",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hunaccent",
-          "description": "👌🚀💯 Small Footprint Diacritic Restoration for Hungarian",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-08-18T14:37:38Z",
-            "owner": "juditacs",
-            "repo": "hunaccent",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hun-appointment-chatbot",
-          "description": "👌🚀💯 A simple Hungarian chatbot for booking an appointment using the Rasa framework.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-12T11:40:09Z",
-            "owner": "szegedai",
-            "repo": "hun-appointment-chatbot",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "syntax-augmentation-nmt",
-          "description": "🚀💯 Syntax-based data augmentation for Hungarian-English machine translation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-11-11T10:31:45Z",
-            "owner": "attilanagy234",
-            "repo": "TreeSwap",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pywnxml",
-          "description": "👌🚀💯 Python3 API for WordNet XML (Hungarian WordNet / BalkaNet / VisDic format)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-05-15T10:58:18Z",
-            "owner": "ppke-nlpg",
-            "repo": "pywnxml",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NYTK MT",
-          "description": "👌🚀💯 NYTK Machine translation models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dockerfile",
-            "last_commit": "2023-04-27T11:03:28Z",
-            "owner": "nytud",
-            "repo": "machine-translation",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Diacritics_restoration",
-          "description": "🚀💯 Lightweight Diacritics Restoration with Dilated Convolutional Neural Networks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-05T17:05:50Z",
-            "owner": "aielte-research",
-            "repo": "Diacritics_restoration",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emLam",
-          "description": "👌🚀💯 Preprocessing scripts for Hungarian Language Modeling",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-04-05T12:41:52Z",
-            "owner": "nytud",
-            "repo": "emLam",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "anonymizer_hu",
-          "description": "🚀💯 The Hungarian anonymization tool for CURLICAT",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-18T15:24:34Z",
-            "owner": "nytud",
-            "repo": "anonymizer_hu",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Language models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wordvectors",
-          "description": "Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-10-11T20:54:06Z",
-            "owner": "Kyubyong",
-            "repo": "wordvectors",
-            "stars": 2234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELMo Representations",
-          "description": "Deep contextualized word representation trained for many languages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-19T07:05:17Z",
-            "owner": "HIT-SCIR",
-            "repo": "ELMoForManyLangs",
-            "stars": 1460
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Conceptnet Numberbatch",
-          "description": "Conceptnet numbermatch multi- and cross-lingual semantic word embeddings",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-18T18:45:28Z",
-            "owner": "commonsense",
-            "repo": "conceptnet-numberbatch",
-            "stars": 1322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FastText_multilingual",
-          "description": "Multilingual word vectors in 78 languages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-03-10T17:39:46Z",
-            "owner": "babylonhealth",
-            "repo": "fastText_multilingual",
-            "stars": 1201
-          }
-        }
-      ],
-      "title": "Word embeddings"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Large Language models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenHuEval",
-          "description": "is an LLM benchmark focusing on the Hungarian language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-20T01:12:35Z",
-            "owner": "opendatalab",
-            "repo": "OpenHuEval",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HuLU evaluate",
-          "description": "is a library for evaluating and training language models on Hungarian tasks within the HuLU benchmark.",
-          "children": []
-        }
-      ],
-      "title": "LLM Benchmarks"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Datasets"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NerKor",
-          "description": "is a gold standard named entity annotated corpus containing 1 million tokens.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-09-20T13:42:26Z",
-            "owner": "nytud",
-            "repo": "NYTK-NerKor",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HuLU",
-          "description": "Hungarian Language Understanding Benchmark Kit",
           "children": [
             {
               "node_type": "item",
-              "title": "HuCOLA",
-              "description": "Hungarian Corpus of Linguistic Acceptability",
+              "title": "quntoken",
+              "description": "👌🚀💯 New Hungarian tokenizer based on quex, huntoken",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": null,
-                "last_commit": "2025-01-17T13:00:12Z",
+                "id": 41422880,
+                "language": "C++",
+                "last_commit": "2022-03-15T09:55:37Z",
                 "owner": "nytud",
-                "repo": "HuCOLA",
+                "repo": "quntoken",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "huntoken",
+              "description": "👌🚀💯 Hungarian word and sentence splitter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12697059,
+                "language": "Shell",
+                "last_commit": "2014-11-27T10:00:26Z",
+                "owner": "zseder",
+                "repo": "huntoken",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Word tokenization, sentence splitting"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Simplemma",
+              "description": "👌🚀💯 is a simple multilingual lemmatizer for Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 330707034,
+                "language": "Python",
+                "last_commit": "2026-08-12T13:48:33Z",
+                "owner": "adbar",
+                "repo": "simplemma",
+                "stars": 215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lara-hungarian-nlp",
+              "description": "👌🚀💯 LARA is a lightweight Python NLP library for ChatBots in Hungarian.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83783425,
+                "language": "Python",
+                "last_commit": "2019-03-07T13:41:05Z",
+                "owner": "sedthh",
+                "repo": "lara-hungarian-nlp",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emMorph (Humor)",
+              "description": "💯 Hungarian morphological analyzer based on Humor",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69904332,
+                "language": "Perl",
+                "last_commit": "2022-01-20T15:36:53Z",
+                "owner": "nytud",
+                "repo": "emMorph",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hunmorph-foma",
+              "description": "🚀💯 Hungarian morpholical analyzer and generator based on hunmorph.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52450885,
+                "language": "Makefile",
+                "last_commit": "2016-02-24T16:59:07Z",
+                "owner": "r0ller",
+                "repo": "hunmorph-foma",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emMorphPy",
+              "description": "👌💯A wrapper, a lemmatizer and REST API implemented in Python for emMorph (Humor) Hungarian morphological analyzer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136040744,
+                "language": "Python",
+                "last_commit": "2019-11-06T20:30:23Z",
+                "owner": "ppke-nlpg",
+                "repo": "emmorphpy",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lemmagen",
+              "description": "👌🚀💯 project aims at providing standardized open source multilingual platform for lemmatisation. (Python package for v3 | C# project for v3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106735886,
+                "language": "C#",
+                "last_commit": "2017-10-13T19:54:24Z",
+                "owner": "oroszgy",
+                "repo": "lemmagen3",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Morphology"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PurePos",
+              "description": "👌🚀 Open source morphological tagger based on HunPos",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2897845,
+                "language": "Java",
+                "last_commit": "2020-10-13T09:55:19Z",
+                "owner": "ppke-nlpg",
+                "repo": "purepos",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "purepos.py",
+              "description": "👌🚀 Python wrapper for PurePos",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21972580,
+                "language": "Java",
+                "last_commit": "2019-12-14T19:31:35Z",
+                "owner": "ppke-nlpg",
+                "repo": "purepospy",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PoS / Morphological taggers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DBpedia Spotlight",
+              "description": "👌🚀💯 DBpedia Spotlight is a tool for automatically annotating mentions of DBpedia resources in text. Docker image",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 4103777,
+                "language": "Scala",
+                "last_commit": "2018-03-08T12:37:40Z",
+                "owner": "dbpedia-spotlight",
+                "repo": "dbpedia-spotlight",
+                "stars": 760
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HunTag",
+              "description": "👌🚀 A sequential tagger for NLP using Maximum Entropy Learning and Hidden Markov Models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4639089,
+                "language": "Python",
+                "last_commit": "2016-01-18T08:52:12Z",
+                "owner": "recski",
+                "repo": "HunTag",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HunTag3",
+              "description": "👌🚀 Improved version of the original HunTag",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31593829,
+                "language": "Lex",
+                "last_commit": "2019-11-06T20:04:52Z",
+                "owner": "ppke-nlpg",
+                "repo": "HunTag3",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emBERT",
+              "description": "👌🚀💯 is an emtsv module for pre-trained Transfomer-based models. It provides tagging models based on Huggingface's transformers package.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232087802,
+                "language": "Python",
+                "last_commit": "2026-07-02T10:02:13Z",
+                "owner": "DavidNemeskey",
+                "repo": "emBERT",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Taggers / Chunkers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stanza",
+              "description": "👌🚀💯 is a Python NLP Library for Many Human Languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104854615,
+                "language": "Python",
+                "last_commit": "2026-08-18T15:07:33Z",
+                "owner": "stanfordnlp",
+                "repo": "stanza",
+                "stars": 7864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trankit",
+              "description": "👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328007342,
+                "language": "Python",
+                "last_commit": "2025-07-22T19:16:10Z",
+                "owner": "nlp-uoregon",
+                "repo": "trankit",
+                "stars": 795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "spaCy StanfordNLP",
+              "description": "👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168454015,
+                "language": "Python",
+                "last_commit": "2024-08-15T16:33:50Z",
+                "owner": "explosion",
+                "repo": "spacy-stanza",
+                "stars": 746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HuSpaCy",
+              "description": "👌🚀💯 Industrial-strength Hungarian Natural Language Processing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88849228,
+                "language": "Python",
+                "last_commit": "2025-11-19T18:19:37Z",
+                "owner": "huspacy",
+                "repo": "huspacy",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emtsv",
+              "description": "👌💯 is a text processing system with inter-module communication via tsv + REST API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152776579,
+                "language": "Python",
+                "last_commit": "2025-08-23T22:13:34Z",
+                "owner": "nytud",
+                "repo": "emtsv",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "huNLP",
+              "description": "👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 80355170,
+                "language": "Kotlin",
+                "last_commit": "2017-08-29T13:45:58Z",
+                "owner": "oroszgy",
+                "repo": "hunlp",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hunlp-GATE",
+              "description": "💯 GATE plugin containing Hungarian NLP tools as GATE processing resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34385523,
+                "language": "C",
+                "last_commit": "2019-02-19T15:46:43Z",
+                "owner": "nytud",
+                "repo": "hunlp-GATE",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eszterland",
+              "description": "👌💯 Clojurized access to magyarlanc",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 711459826,
+                "language": "Clojure",
+                "last_commit": "2023-11-06T17:16:14Z",
+                "owner": "damesek",
+                "repo": "eszterlanc",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trendminer Hungarian Processing Pipeline",
+              "description": "🚀 Hungarian NLP pipeline for social media text analysis (TrendMiner project)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24643043,
+                "language": "Python",
+                "last_commit": "2014-09-30T16:08:48Z",
+                "owner": "mmihaltz",
+                "repo": "trendminer-hunlp",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "magyarlanc_spark",
+              "description": "👌💯 Spark wrapper for magyarlanc",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77073348,
+                "language": "Kotlin",
+                "last_commit": "2017-04-19T14:51:15Z",
+                "owner": "tyson925",
+                "repo": "magyarlanc_spark",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pipelines with Hungarian NLP components"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "benepar",
+              "description": "👌🚀💯 A high-accuracy parser with models for 11 languages, implemented in Python. Based on Constituency Parsing with a Self-Attentive Encoder from ACL 2018.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131264017,
+                "language": "Python",
+                "last_commit": "2022-01-10T15:48:34Z",
+                "owner": "nikitakit",
+                "repo": "self-attentive-parser",
+                "stars": 912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HunParse",
+              "description": "🚀💯 An NLTK-based parser using KR-style morphological annotation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5440357,
+                "language": null,
+                "last_commit": "2012-08-17T14:55:36Z",
+                "owner": "recski",
+                "repo": "HunParse",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anagramma Parser",
+              "description": "A parser based on psycholinguistics principles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15939298,
+                "language": "Python",
+                "last_commit": "2018-11-12T11:38:00Z",
+                "owner": "ppke-nlpg",
+                "repo": "AnaGramma-Parser",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Syntactic parsers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SentimentAnalysisHUN",
+              "description": "👌🚀💯 is an open-source sentiment analysis tool for Hungarian language, written in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70318146,
+                "language": "Python",
+                "last_commit": "2016-10-31T14:53:23Z",
+                "owner": "dhuszti",
+                "repo": "SentimentAnalysisHUN",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hun-date-parser",
+              "description": "👌🚀💯 A tool for extracting datetime intervals from Hungarian sentences and turning datetime objects into Hungarian text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316921084,
+                "language": "Python",
+                "last_commit": "2026-02-13T15:39:23Z",
+                "owner": "szegedai",
+                "repo": "hun-date-parser",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Semantic analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "neural-punctuator",
+              "description": "👌🚀💯 Automatic punctuation restoration with BERT models for English and Hungarian",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 303729549,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-11-06T08:11:56Z",
+                "owner": "attilanagy234",
+                "repo": "neural-punctuator",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hunaccent",
+              "description": "👌🚀💯 Small Footprint Diacritic Restoration for Hungarian",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47824449,
+                "language": "C++",
+                "last_commit": "2024-08-18T14:37:38Z",
+                "owner": "juditacs",
+                "repo": "hunaccent",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hun-appointment-chatbot",
+              "description": "👌🚀💯 A simple Hungarian chatbot for booking an appointment using the Rasa framework.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308933533,
+                "language": "Python",
+                "last_commit": "2023-02-12T11:40:09Z",
+                "owner": "szegedai",
+                "repo": "hun-appointment-chatbot",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "syntax-augmentation-nmt",
+              "description": "🚀💯 Syntax-based data augmentation for Hungarian-English machine translation",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327029173,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-11-11T10:31:45Z",
+                "owner": "attilanagy234",
+                "repo": "TreeSwap",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pywnxml",
+              "description": "👌🚀💯 Python3 API for WordNet XML (Hungarian WordNet / BalkaNet / VisDic format)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30967200,
+                "language": "Python",
+                "last_commit": "2018-05-15T10:58:18Z",
+                "owner": "ppke-nlpg",
+                "repo": "pywnxml",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NYTK MT",
+              "description": "👌🚀💯 NYTK Machine translation models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446454907,
+                "language": "Dockerfile",
+                "last_commit": "2023-04-27T11:03:28Z",
+                "owner": "nytud",
+                "repo": "machine-translation",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Diacritics_restoration",
+              "description": "🚀💯 Lightweight Diacritics Restoration with Dilated Convolutional Neural Networks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 445325835,
+                "language": "Python",
+                "last_commit": "2025-01-05T17:05:50Z",
+                "owner": "aielte-research",
+                "repo": "Diacritics_restoration",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emLam",
+              "description": "👌🚀💯 Preprocessing scripts for Hungarian Language Modeling",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74170430,
+                "language": "Python",
+                "last_commit": "2020-04-05T12:41:52Z",
+                "owner": "nytud",
+                "repo": "emLam",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "anonymizer_hu",
+              "description": "🚀💯 The Hungarian anonymization tool for CURLICAT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 526245370,
+                "language": "Python",
+                "last_commit": "2022-08-18T15:24:34Z",
+                "owner": "nytud",
+                "repo": "anonymizer_hu",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wordvectors",
+              "description": "Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77006492,
+                "language": "Python",
+                "last_commit": "2018-10-11T20:54:06Z",
+                "owner": "Kyubyong",
+                "repo": "wordvectors",
+                "stars": 2234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ELMo Representations",
+              "description": "Deep contextualized word representation trained for many languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140356522,
+                "language": "Python",
+                "last_commit": "2021-05-19T07:05:17Z",
+                "owner": "HIT-SCIR",
+                "repo": "ELMoForManyLangs",
+                "stars": 1460
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conceptnet Numberbatch",
+              "description": "Conceptnet numbermatch multi- and cross-lingual semantic word embeddings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39023580,
+                "language": "Python",
+                "last_commit": "2022-07-18T18:45:28Z",
+                "owner": "commonsense",
+                "repo": "conceptnet-numberbatch",
+                "stars": 1322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastText_multilingual",
+              "description": "Multilingual word vectors in 78 languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88980430,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-03-10T17:39:46Z",
+                "owner": "babylonhealth",
+                "repo": "fastText_multilingual",
+                "stars": 1201
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Word embeddings"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenHuEval",
+              "description": "is an LLM benchmark focusing on the Hungarian language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 951931134,
+                "language": "Python",
+                "last_commit": "2025-08-20T01:12:35Z",
+                "owner": "opendatalab",
+                "repo": "OpenHuEval",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM Benchmarks"
+        }
+      ],
+      "title": "Language models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "NerKor",
+                  "description": "is a gold standard named entity annotated corpus containing 1 million tokens.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 340101619,
+                    "language": "Shell",
+                    "last_commit": "2023-09-20T13:42:26Z",
+                    "owner": "nytud",
+                    "repo": "NYTK-NerKor",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HuLU",
+                  "description": "Hungarian Language Understanding Benchmark Kit",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "HuCOLA",
+                      "description": "Hungarian Corpus of Linguistic Acceptability",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 446444444,
+                        "language": null,
+                        "last_commit": "2025-01-17T13:00:12Z",
+                        "owner": "nytud",
+                        "repo": "HuCOLA",
+                        "stars": 1
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "HuCoPA",
+                      "description": "Hungarian Choice of Plausible Alternatives Corpus",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 445220389,
+                        "language": null,
+                        "last_commit": "2025-01-22T09:37:09Z",
+                        "owner": "nytud",
+                        "repo": "HuCoPA",
+                        "stars": 1
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "HuSST",
+                      "description": "Hungarian version of the Sentiment Treebank",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 446543706,
+                        "language": null,
+                        "last_commit": "2025-01-17T13:58:16Z",
+                        "owner": "nytud",
+                        "repo": "HuSST",
+                        "stars": 1
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "HuWS",
+                      "description": "is the Hungarian set of the Winograd schemas",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 446560923,
+                        "language": null,
+                        "last_commit": "2023-01-23T08:46:38Z",
+                        "owner": "nytud",
+                        "repo": "HuWS",
+                        "stars": 1
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "HuCommitmentBank",
+                      "description": "is a corpus of naturally occurring discourses whose final sentence contains a clause-embedding predicate under an entailment canceling operator.",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 572907540,
+                        "language": null,
+                        "last_commit": "2025-01-17T12:29:09Z",
+                        "owner": "nytud",
+                        "repo": "HuCommitmentBank",
+                        "stars": 0
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "HuWNLI",
+                      "description": "Anaphora resolution datasets for Hungarian as an inference task",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 472341175,
+                        "language": null,
+                        "last_commit": "2023-01-17T13:42:10Z",
+                        "owner": "nytud",
+                        "repo": "HuWNLI",
+                        "stars": 0
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "HuRTE",
+                      "description": "is the Hungarian version of the Recognizing Textual Entailment datasets",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 571966089,
+                        "language": null,
+                        "last_commit": "2025-01-17T13:46:48Z",
+                        "owner": "nytud",
+                        "repo": "HuRTE",
+                        "stars": 0
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 505857264,
+                    "language": "Python",
+                    "last_commit": "2025-10-29T09:47:43Z",
+                    "owner": "nytud",
+                    "repo": "HuLU",
+                    "stars": 15
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ELTE Poetry Corpus",
+                  "description": "is a database of complete poems of 50 Hungarian canonical poets together with the sound devices of the poems and the grammatical features of words in XML format",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 353663001,
+                    "language": null,
+                    "last_commit": "2025-09-29T09:54:04Z",
+                    "owner": "ELTE-DH",
+                    "repo": "poetry-corpus",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Universal Dependencies",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 28815901,
+                    "language": null,
+                    "last_commit": "2026-05-06T19:07:24Z",
+                    "owner": "UniversalDependencies",
+                    "repo": "UD_Hungarian-Szeged",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ELTE Novel Corpus",
+                  "description": "is a database of 400 Hungarian novels (with the annotation of structural units and the grammatical features of words in TEI XML format)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 354625922,
+                    "language": null,
+                    "last_commit": "2026-08-18T15:07:34Z",
+                    "owner": "ELTE-DH",
+                    "repo": "regenykorpusz",
+                    "stars": 5
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "KorKor Pilotcorpus",
+                  "description": "is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 213914990,
+                    "language": "Python",
+                    "last_commit": "2023-02-10T08:53:09Z",
+                    "owner": "vadno",
+                    "repo": "korkor_pilot",
+                    "stars": 3
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PrevCons",
+                  "description": "is a database of 21K hapaxes of verbs with verbal prefixes",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 228862178,
+                    "language": null,
+                    "last_commit": "2021-09-10T21:25:37Z",
+                    "owner": "kagnes",
+                    "repo": "prevcons",
+                    "stars": 2
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "NerKor 1.41e",
+                  "description": "A 1M+-token Hungarian named entity dataset with ~30 entity types derived from NYTK-NerKor",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 437432681,
+                    "language": null,
+                    "last_commit": "2022-02-17T18:16:11Z",
+                    "owner": "novakat",
+                    "repo": "NYTK-NerKor-Cars-OntoNotesPP",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ELTE Drama Corpus",
+                  "description": "is a database of 58 dramas (with the annotation of structural units and the grammatical features of words in TEI XML format)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 483272939,
+                    "language": null,
+                    "last_commit": "2026-06-22T18:16:41Z",
+                    "owner": "ELTE-DH",
+                    "repo": "drama-corpus",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HAPP",
+                  "description": "is the Hungarian translation of the Definite Pronoun Resolution Dataset",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 475464927,
+                    "language": null,
+                    "last_commit": "2024-02-19T12:04:52Z",
+                    "owner": "nytud",
+                    "repo": "HAPP",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "HunEmPoli",
+                  "description": "corpus was built using pre-agenda speeches of the Hungarian National Assembly (2014-2018) and consists 764008 tokens/36475 sentences. Aspect level emotion annotation, with 39840 identified emotions, in addition, marked the keywords that evoked the emotion.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 575933629,
+                    "language": null,
+                    "last_commit": "2023-01-09T14:04:54Z",
+                    "owner": "poltextlab",
+                    "repo": "HunEmPoli_corpus",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Annotated corpora"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "MASSIVE dataset",
+                  "description": "is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 482010194,
+                    "language": "Python",
+                    "last_commit": "2022-11-28T22:22:39Z",
+                    "owner": "alexa",
+                    "repo": "massive",
+                    "stars": 564
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "CSS10",
+                  "description": "A Collection of Single Speaker Speech Datasets for 10 Languages including Hungarian",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 132980519,
+                    "language": "HTML",
+                    "last_commit": "2020-03-06T15:12:45Z",
+                    "owner": "Kyubyong",
+                    "repo": "css10",
+                    "stars": 491
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Hungarian-Russian Prisoner of War Database",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 312291785,
+                    "language": "Python",
+                    "last_commit": "2021-05-03T20:32:55Z",
+                    "owner": "nytud",
+                    "repo": "hadifogoly-adatbazis",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "parallelbible",
+                  "description": "The Parallel Bible Corpus is based on the historical text material of the Old Hungarian Corpus, as its database contains all of the Old and Middle Hungarian Bible translations which are available in this corpus. The King James Bible and three Finnish translations are included in the database as well.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 184871009,
+                    "language": null,
+                    "last_commit": "2025-04-29T11:45:23Z",
+                    "owner": "nytud",
+                    "repo": "parallelbible",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PWS",
+                  "description": "is a parallel collection of the Winograd schemas in seven languages (including Hungarian)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 475465908,
+                    "language": "TeX",
+                    "last_commit": "2023-02-07T09:38:03Z",
+                    "owner": "nytud",
+                    "repo": "PWS",
+                    "stars": 0
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Parallel corpora"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Corpora"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "4lang",
+              "description": "Concept dictionary using Eilenberg machines",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29248144,
+                "language": "Python",
+                "last_commit": "2024-04-04T20:49:58Z",
+                "owner": "kornai",
+                "repo": "4lang",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "huwn",
+              "description": "Hungarian Wordnet",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22960230,
+                "language": null,
+                "last_commit": "2026-08-12T08:24:18Z",
+                "owner": "mmihaltz",
+                "repo": "huwn",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Manocska",
+              "description": "merges verb frames existing databases",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81204290,
+                "language": "Python",
+                "last_commit": "2019-06-21T09:31:06Z",
+                "owner": "ppke-nlpg",
+                "repo": "manocska",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "panmorph",
+              "description": "Tagsets and description of Hungarian morphological analysers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164106878,
+                "language": null,
+                "last_commit": "2021-03-10T15:29:08Z",
+                "owner": "nytud",
+                "repo": "panmorph",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "poltextLAB's sentiment lexicons",
+              "description": "Highly accurate sentiment lexicons for analysing news data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300641813,
+                "language": "Python",
+                "last_commit": "2022-09-21T15:50:06Z",
+                "owner": "poltextlab",
+                "repo": "sentiment_hun",
                 "stars": 1
               }
             },
             {
               "node_type": "item",
-              "title": "HuCoPA",
-              "description": "Hungarian Choice of Plausible Alternatives Corpus",
+              "title": "PrevLex",
+              "description": "List of phrasel verbs",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 162691598,
                 "language": null,
-                "last_commit": "2025-01-22T09:37:09Z",
-                "owner": "nytud",
-                "repo": "HuCoPA",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HuSST",
-              "description": "Hungarian version of the Sentiment Treebank",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2025-01-17T13:58:16Z",
-                "owner": "nytud",
-                "repo": "HuSST",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HuWS",
-              "description": "is the Hungarian set of the Winograd schemas",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2023-01-23T08:46:38Z",
-                "owner": "nytud",
-                "repo": "HuWS",
-                "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HuCommitmentBank",
-              "description": "is a corpus of naturally occurring discourses whose final sentence contains a clause-embedding predicate under an entailment canceling operator.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2025-01-17T12:29:09Z",
-                "owner": "nytud",
-                "repo": "HuCommitmentBank",
+                "last_commit": "2021-06-02T13:33:12Z",
+                "owner": "kagnes",
+                "repo": "prevlex",
                 "stars": 0
               }
             },
             {
               "node_type": "item",
-              "title": "HuWNLI",
-              "description": "Anaphora resolution datasets for Hungarian as an inference task",
+              "title": "hun_ner_checklist",
+              "description": "CHECKLIST diagnostic test cases for Hungarian Named Entity Recognition",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": null,
-                "last_commit": "2023-01-17T13:42:10Z",
-                "owner": "nytud",
-                "repo": "HuWNLI",
-                "stars": 0
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HuRTE",
-              "description": "is the Hungarian version of the Recognizing Textual Entailment datasets",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2025-01-17T13:46:48Z",
-                "owner": "nytud",
-                "repo": "HuRTE",
+                "id": 328463476,
+                "language": "Python",
+                "last_commit": "2021-01-26T19:04:21Z",
+                "owner": "szegedai",
+                "repo": "hun_ner_checklist",
                 "stars": 0
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-29T09:47:43Z",
-            "owner": "nytud",
-            "repo": "HuLU",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELTE Poetry Corpus",
-          "description": "is a database of complete poems of 50 Hungarian canonical poets together with the sound devices of the poems and the grammatical features of words in XML format",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-29T09:54:04Z",
-            "owner": "ELTE-DH",
-            "repo": "poetry-corpus",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Universal Dependencies",
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-05-06T19:07:24Z",
-            "owner": "UniversalDependencies",
-            "repo": "UD_Hungarian-Szeged",
-            "stars": 6
-          }
+          "node_type": "group",
+          "title": "Linguistic resources"
         },
         {
-          "node_type": "item",
-          "title": "ELTE Novel Corpus",
-          "description": "is a database of 400 Hungarian novels (with the annotation of structural units and the grammatical features of words in TEI XML format)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T15:07:34Z",
-            "owner": "ELTE-DH",
-            "repo": "regenykorpusz",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KorKor Pilotcorpus",
-          "description": "is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-02-10T08:53:09Z",
-            "owner": "vadno",
-            "repo": "korkor_pilot",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PrevCons",
-          "description": "is a database of 21K hapaxes of verbs with verbal prefixes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-09-10T21:25:37Z",
-            "owner": "kagnes",
-            "repo": "prevcons",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NerKor 1.41e",
-          "description": "A 1M+-token Hungarian named entity dataset with ~30 entity types derived from NYTK-NerKor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-02-17T18:16:11Z",
-            "owner": "novakat",
-            "repo": "NYTK-NerKor-Cars-OntoNotesPP",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ELTE Drama Corpus",
-          "description": "is a database of 58 dramas (with the annotation of structural units and the grammatical features of words in TEI XML format)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-22T18:16:41Z",
-            "owner": "ELTE-DH",
-            "repo": "drama-corpus",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HAPP",
-          "description": "is the Hungarian translation of the Definite Pronoun Resolution Dataset",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-19T12:04:52Z",
-            "owner": "nytud",
-            "repo": "HAPP",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HunEmPoli",
-          "description": "corpus was built using pre-agenda speeches of the Hungarian National Assembly (2014-2018) and consists 764008 tokens/36475 sentences. Aspect level emotion annotation, with 39840 identified emotions, in addition, marked the keywords that evoked the emotion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-01-09T14:04:54Z",
-            "owner": "poltextlab",
-            "repo": "HunEmPoli_corpus",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Annotated corpora"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MASSIVE dataset",
-          "description": "is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-28T22:22:39Z",
-            "owner": "alexa",
-            "repo": "massive",
-            "stars": 564
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CSS10",
-          "description": "A Collection of Single Speaker Speech Datasets for 10 Languages including Hungarian",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-03-06T15:12:45Z",
-            "owner": "Kyubyong",
-            "repo": "css10",
-            "stars": 491
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hungarian-Russian Prisoner of War Database",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Natural-earth-vector",
+              "description": "( imported from wikidata labels)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3239619,
+                "language": "HTML",
+                "last_commit": "2024-04-22T12:24:13Z",
+                "owner": "nvkelso",
+                "repo": "natural-earth-vector",
+                "stars": 2180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Who's On First",
+              "description": "is a gazetteer of places (with Hungarian administrative places )",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177664965,
+                "language": "Makefile",
+                "last_commit": "2024-03-05T18:07:27Z",
+                "owner": "whosonfirst-data",
+                "repo": "whosonfirst-data-admin-hu",
+                "stars": 1
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-05-03T20:32:55Z",
-            "owner": "nytud",
-            "repo": "hadifogoly-adatbazis",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parallelbible",
-          "description": "The Parallel Bible Corpus is based on the historical text material of the Old Hungarian Corpus, as its database contains all of the Old and Middle Hungarian Bible translations which are available in this corpus. The King James Bible and three Finnish translations are included in the database as well.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-04-29T11:45:23Z",
-            "owner": "nytud",
-            "repo": "parallelbible",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PWS",
-          "description": "is a parallel collection of the Winograd schemas in seven languages (including Hungarian)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2023-02-07T09:38:03Z",
-            "owner": "nytud",
-            "repo": "PWS",
-            "stars": 0
-          }
+          "node_type": "group",
+          "title": "Geo data"
         }
       ],
-      "title": "Parallel corpora"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "4lang",
-          "description": "Concept dictionary using Eilenberg machines",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-04T20:49:58Z",
-            "owner": "kornai",
-            "repo": "4lang",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "huwn",
-          "description": "Hungarian Wordnet",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-12T08:24:18Z",
-            "owner": "mmihaltz",
-            "repo": "huwn",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Manocska",
-          "description": "merges verb frames existing databases",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-06-21T09:31:06Z",
-            "owner": "ppke-nlpg",
-            "repo": "manocska",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "panmorph",
-          "description": "Tagsets and description of Hungarian morphological analysers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-03-10T15:29:08Z",
-            "owner": "nytud",
-            "repo": "panmorph",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "poltextLAB's sentiment lexicons",
-          "description": "Highly accurate sentiment lexicons for analysing news data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-21T15:50:06Z",
-            "owner": "poltextlab",
-            "repo": "sentiment_hun",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PrevLex",
-          "description": "List of phrasel verbs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-06-02T13:33:12Z",
-            "owner": "kagnes",
-            "repo": "prevlex",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hun_ner_checklist",
-          "description": "CHECKLIST diagnostic test cases for Hungarian Named Entity Recognition",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-01-26T19:04:21Z",
-            "owner": "szegedai",
-            "repo": "hun_ner_checklist",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Linguistic resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Natural-earth-vector",
-          "description": "( imported from wikidata labels)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-04-22T12:24:13Z",
-            "owner": "nvkelso",
-            "repo": "natural-earth-vector",
-            "stars": 2180
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Who's On First",
-          "description": "is a gazetteer of places (with Hungarian administrative places )",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2024-03-05T18:07:27Z",
-            "owner": "whosonfirst-data",
-            "repo": "whosonfirst-data-admin-hu",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Geo data"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Academy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Learning resources"
+      "title": "Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:08:41.887Z",
+    "last_updated": "2026-08-19T12:35:53.497Z",
     "original_repository": "oroszgy/awesome-hungarian-nlp",
+    "original_repository_id": 88435597,
     "original_repository_sha": "1ed9fdda12090fdff3e26343321b5862c72aa5cf",
     "enhanced_repository": "enhansome/enhansome-hungarian-nlp",
     "enhanced_repository_description": null,
