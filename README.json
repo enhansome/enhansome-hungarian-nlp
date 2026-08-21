@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 104854615,
                 "language": "Python",
-                "last_commit": "2026-08-19T20:39:09Z",
+                "last_commit": "2026-08-20T08:01:49Z",
                 "owner": "stanfordnlp",
                 "repo": "stanza",
                 "stars": 7864
@@ -1223,7 +1223,7 @@
                 "last_commit": "2024-04-22T12:24:13Z",
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2180
+                "stars": 2181
               }
             },
             {
@@ -1251,7 +1251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:08:11.778Z",
+    "last_updated": "2026-08-21T02:13:52.884Z",
     "original_repository": "oroszgy/awesome-hungarian-nlp",
     "original_repository_id": 88435597,
     "original_repository_sha": "1ed9fdda12090fdff3e26343321b5862c72aa5cf",
