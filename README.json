@@ -705,6 +705,35 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "gpt-oss",
+                  "description": "is a multilingual LLM that also speaks Hungarian(Hugging Face, GitHub)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1007222028,
+                    "language": "Python",
+                    "last_commit": "2026-07-24T18:56:01Z",
+                    "owner": "openai",
+                    "repo": "gpt-oss",
+                    "stars": 20338
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "General Multilingual Large Language models"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Large Language models"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "OpenHuEval",
               "description": "is an LLM benchmark focusing on the Hungarian language.",
@@ -1213,6 +1242,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "huwn.rdf",
+              "description": "Hungarian WordNet in RDF format for the Linked Open Data cloud",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30968081,
+                "language": "Python",
+                "last_commit": "2015-06-10T09:52:13Z",
+                "owner": "mmihaltz",
+                "repo": "huwn.rdf",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Linked Open Data"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Natural-earth-vector",
               "description": "( imported from wikidata labels)",
               "children": [],
@@ -1223,7 +1274,7 @@
                 "last_commit": "2024-04-22T12:24:13Z",
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2184
+                "stars": 2186
               }
             },
             {
@@ -1248,10 +1299,59 @@
         }
       ],
       "title": "Datasets"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tutorial on Text Mining for Hungarian",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95152596,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-04-06T18:45:01Z",
+                "owner": "oroszgy",
+                "repo": "hungarian-text-mining-workshop",
+                "stars": 20
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tutorials"
+        }
+      ],
+      "title": "Learning resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EENLP",
+          "description": "The broad index of NLP resources for Eastern European languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385193680,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-06-24T07:54:12Z",
+            "owner": "altsoph",
+            "repo": "EENLP",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Other Hungarian related resource collections"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:13:25.982Z",
+    "last_updated": "2026-08-24T14:28:12.598Z",
     "original_repository": "oroszgy/awesome-hungarian-nlp",
     "original_repository_id": 88435597,
     "original_repository_sha": "1ed9fdda12090fdff3e26343321b5862c72aa5cf",

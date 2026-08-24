@@ -89,7 +89,7 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,866 | 🐛 92 | 🌐 Python | 📅 2026-08-23 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,866 | 🐛 93 | 🌐 Python | 📅 2026-08-23 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 746 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 191 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
@@ -159,9 +159,9 @@ Notations:
 
 #### General Multilingual Large Language models
 
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,338 | 🐛 138 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,333 | 🐛 138 | 🌐 Python | 📅 2026-07-24)
 
 #### Large Language models specifically developed for Hungarian language use-cases
 
@@ -269,15 +269,15 @@ Notations:
 
 ### Linked Open Data
 
+* [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2015-06-10 Hungarian WordNet in RDF format for the Linked Open Data cloud
 * [Wikipedia dumps](https://dumps.wikimedia.org/huwiki/)
 * [Wikidata dumps](https://www.wikidata.org/wiki/Wikidata:Database_download)
 * [DBPedia dumps](http://downloads.dbpedia.org/current/core-i18n/hu/)
-* [huwn.rdf](https://github.com/mmihaltz/huwn.rdf) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2015-06-10 Hungarian WordNet in RDF format for the Linked Open Data cloud
 * [Conceptnet](http://conceptnet.io/) An open, multilingual knowledge graph (with partial Hungarian support)
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,184 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,184 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,186 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,186 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
   In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -324,8 +324,8 @@ Notations:
 
 ### Tutorials
 
-* [Mini NLP Course by the Center Of Digital Humanities](https://pim.hu/hu/digitalis-bolcseszeti-kozpont/nyelvtechnologia-kurzus)
 * [Tutorial on Text Mining for Hungarian](https://github.com/oroszgy/hungarian-text-mining-workshop) ⭐ 20 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-04-06
+* [Mini NLP Course by the Center Of Digital Humanities](https://pim.hu/hu/digitalis-bolcseszeti-kozpont/nyelvtechnologia-kurzus)
 
 ## Communities
 
