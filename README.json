@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 104854615,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:50:40Z",
+                "last_commit": "2026-08-27T06:21:36Z",
                 "owner": "stanfordnlp",
                 "repo": "stanza",
                 "stars": 7867
@@ -718,7 +718,7 @@
                     "last_commit": "2026-07-24T18:56:01Z",
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20342
+                    "stars": 20348
                   }
                 }
               ],
@@ -1053,7 +1053,7 @@
                     "last_commit": "2022-11-28T22:22:39Z",
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 564
+                    "stars": 565
                   }
                 },
                 {
@@ -1351,9 +1351,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:14:59.821Z",
-    "original_repository": "oroszgy/awesome-hungarian-nlp",
-    "original_repository_id": 88435597,
+    "last_updated": "2026-08-27T10:38:34.145Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 88435597,
+      "language": null,
+      "last_commit": "2026-04-14T08:55:18Z",
+      "owner": "oroszgy",
+      "repo": "awesome-hungarian-nlp",
+      "stars": 282
+    },
     "original_repository_sha": "1ed9fdda12090fdff3e26343321b5862c72aa5cf",
     "enhanced_repository": "enhansome/enhansome-hungarian-nlp",
     "enhanced_repository_description": null,
