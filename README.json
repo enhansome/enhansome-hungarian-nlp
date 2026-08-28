@@ -18,7 +18,8 @@
                 "owner": "nytud",
                 "repo": "quntoken",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "zseder",
                 "repo": "huntoken",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -55,7 +57,8 @@
                 "owner": "adbar",
                 "repo": "simplemma",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "sedthh",
                 "repo": "lara-hungarian-nlp",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "nytud",
                 "repo": "emMorph",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "r0ller",
                 "repo": "hunmorph-foma",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "ppke-nlpg",
                 "repo": "emmorphpy",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "oroszgy",
                 "repo": "lemmagen3",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -152,7 +160,8 @@
                 "owner": "ppke-nlpg",
                 "repo": "purepos",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -167,7 +176,8 @@
                 "owner": "ppke-nlpg",
                 "repo": "purepospy",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -189,7 +199,8 @@
                 "owner": "dbpedia-spotlight",
                 "repo": "dbpedia-spotlight",
                 "stars": 760
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "recski",
                 "repo": "HunTag",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "ppke-nlpg",
                 "repo": "HunTag3",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "DavidNemeskey",
                 "repo": "emBERT",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -252,11 +266,12 @@
                 "archived": false,
                 "id": 104854615,
                 "language": "Python",
-                "last_commit": "2026-08-27T06:21:36Z",
+                "last_commit": "2026-08-28T04:34:16Z",
                 "owner": "stanfordnlp",
                 "repo": "stanza",
                 "stars": 7867
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -271,7 +286,8 @@
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
                 "stars": 796
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -286,7 +302,8 @@
                 "owner": "explosion",
                 "repo": "spacy-stanza",
                 "stars": 746
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -301,7 +318,8 @@
                 "owner": "huspacy",
                 "repo": "huspacy",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -316,7 +334,8 @@
                 "owner": "nytud",
                 "repo": "emtsv",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -331,7 +350,8 @@
                 "owner": "oroszgy",
                 "repo": "hunlp",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "nytud",
                 "repo": "hunlp-GATE",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -361,7 +382,8 @@
                 "owner": "damesek",
                 "repo": "eszterlanc",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "mmihaltz",
                 "repo": "trendminer-hunlp",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "tyson925",
                 "repo": "magyarlanc_spark",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -413,7 +437,8 @@
                 "owner": "nikitakit",
                 "repo": "self-attentive-parser",
                 "stars": 912
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -428,7 +453,8 @@
                 "owner": "recski",
                 "repo": "HunParse",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -443,7 +469,8 @@
                 "owner": "ppke-nlpg",
                 "repo": "AnaGramma-Parser",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -465,7 +492,8 @@
                 "owner": "dhuszti",
                 "repo": "SentimentAnalysisHUN",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -480,7 +508,8 @@
                 "owner": "szegedai",
                 "repo": "hun-date-parser",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -502,7 +531,8 @@
                 "owner": "attilanagy234",
                 "repo": "neural-punctuator",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -517,7 +547,8 @@
                 "owner": "juditacs",
                 "repo": "hunaccent",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -532,7 +563,8 @@
                 "owner": "szegedai",
                 "repo": "hun-appointment-chatbot",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -547,7 +579,8 @@
                 "owner": "attilanagy234",
                 "repo": "TreeSwap",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -562,7 +595,8 @@
                 "owner": "ppke-nlpg",
                 "repo": "pywnxml",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -577,7 +611,8 @@
                 "owner": "nytud",
                 "repo": "machine-translation",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -592,7 +627,8 @@
                 "owner": "aielte-research",
                 "repo": "Diacritics_restoration",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -607,7 +643,8 @@
                 "owner": "nytud",
                 "repo": "emLam",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -622,7 +659,8 @@
                 "owner": "nytud",
                 "repo": "anonymizer_hu",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -650,7 +688,8 @@
                 "owner": "Kyubyong",
                 "repo": "wordvectors",
                 "stars": 2234
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -665,7 +704,8 @@
                 "owner": "HIT-SCIR",
                 "repo": "ELMoForManyLangs",
                 "stars": 1460
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -680,7 +720,8 @@
                 "owner": "commonsense",
                 "repo": "conceptnet-numberbatch",
                 "stars": 1322
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -695,7 +736,8 @@
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
                 "stars": 1201
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -718,8 +760,9 @@
                     "last_commit": "2026-07-24T18:56:01Z",
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20348
-                  }
+                    "stars": 20356
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 }
               ],
               "description": null,
@@ -746,7 +789,8 @@
                 "owner": "opendatalab",
                 "repo": "OpenHuEval",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -776,7 +820,8 @@
                     "owner": "nytud",
                     "repo": "NYTK-NerKor",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -796,7 +841,8 @@
                         "owner": "nytud",
                         "repo": "HuCOLA",
                         "stars": 1
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:16:47.418Z"
                     },
                     {
                       "node_type": "item",
@@ -811,7 +857,8 @@
                         "owner": "nytud",
                         "repo": "HuCoPA",
                         "stars": 1
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:16:47.418Z"
                     },
                     {
                       "node_type": "item",
@@ -826,7 +873,8 @@
                         "owner": "nytud",
                         "repo": "HuSST",
                         "stars": 1
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:16:47.418Z"
                     },
                     {
                       "node_type": "item",
@@ -841,7 +889,8 @@
                         "owner": "nytud",
                         "repo": "HuWS",
                         "stars": 1
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:16:47.418Z"
                     },
                     {
                       "node_type": "item",
@@ -856,7 +905,8 @@
                         "owner": "nytud",
                         "repo": "HuCommitmentBank",
                         "stars": 0
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:16:47.418Z"
                     },
                     {
                       "node_type": "item",
@@ -871,7 +921,8 @@
                         "owner": "nytud",
                         "repo": "HuWNLI",
                         "stars": 0
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:16:47.418Z"
                     },
                     {
                       "node_type": "item",
@@ -886,7 +937,8 @@
                         "owner": "nytud",
                         "repo": "HuRTE",
                         "stars": 0
-                      }
+                      },
+                      "first_seen": "2026-08-28T12:16:47.418Z"
                     }
                   ],
                   "repo_info": {
@@ -897,7 +949,8 @@
                     "owner": "nytud",
                     "repo": "HuLU",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -912,7 +965,8 @@
                     "owner": "ELTE-DH",
                     "repo": "poetry-corpus",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -927,7 +981,8 @@
                     "owner": "UniversalDependencies",
                     "repo": "UD_Hungarian-Szeged",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -942,7 +997,8 @@
                     "owner": "ELTE-DH",
                     "repo": "regenykorpusz",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -957,7 +1013,8 @@
                     "owner": "vadno",
                     "repo": "korkor_pilot",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -972,7 +1029,8 @@
                     "owner": "kagnes",
                     "repo": "prevcons",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -987,7 +1045,8 @@
                     "owner": "novakat",
                     "repo": "NYTK-NerKor-Cars-OntoNotesPP",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -1002,7 +1061,8 @@
                     "owner": "ELTE-DH",
                     "repo": "drama-corpus",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -1017,7 +1077,8 @@
                     "owner": "nytud",
                     "repo": "HAPP",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -1032,7 +1093,8 @@
                     "owner": "poltextlab",
                     "repo": "HunEmPoli_corpus",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 }
               ],
               "description": null,
@@ -1054,7 +1116,8 @@
                     "owner": "alexa",
                     "repo": "massive",
                     "stars": 565
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -1069,7 +1132,8 @@
                     "owner": "Kyubyong",
                     "repo": "css10",
                     "stars": 491
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -1084,7 +1148,8 @@
                     "owner": "nytud",
                     "repo": "hadifogoly-adatbazis",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -1099,7 +1164,8 @@
                     "owner": "nytud",
                     "repo": "parallelbible",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 },
                 {
                   "node_type": "item",
@@ -1114,7 +1180,8 @@
                     "owner": "nytud",
                     "repo": "PWS",
                     "stars": 0
-                  }
+                  },
+                  "first_seen": "2026-08-28T12:16:47.418Z"
                 }
               ],
               "description": null,
@@ -1141,7 +1208,8 @@
                 "owner": "kornai",
                 "repo": "4lang",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -1156,7 +1224,8 @@
                 "owner": "mmihaltz",
                 "repo": "huwn",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -1171,7 +1240,8 @@
                 "owner": "ppke-nlpg",
                 "repo": "manocska",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -1186,7 +1256,8 @@
                 "owner": "nytud",
                 "repo": "panmorph",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -1201,7 +1272,8 @@
                 "owner": "poltextlab",
                 "repo": "sentiment_hun",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -1216,7 +1288,8 @@
                 "owner": "kagnes",
                 "repo": "prevlex",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -1231,7 +1304,8 @@
                 "owner": "szegedai",
                 "repo": "hun_ner_checklist",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -1253,7 +1327,8 @@
                 "owner": "mmihaltz",
                 "repo": "huwn.rdf",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -1274,8 +1349,9 @@
                 "last_commit": "2024-04-22T12:24:13Z",
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2187
-              }
+                "stars": 2188
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             },
             {
               "node_type": "item",
@@ -1290,7 +1366,8 @@
                 "owner": "whosonfirst-data",
                 "repo": "whosonfirst-data-admin-hu",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -1318,7 +1395,8 @@
                 "owner": "oroszgy",
                 "repo": "hungarian-text-mining-workshop",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T12:16:47.418Z"
             }
           ],
           "description": null,
@@ -1344,14 +1422,15 @@
             "owner": "altsoph",
             "repo": "EENLP",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T12:16:47.418Z"
         }
       ],
       "title": "Other Hungarian related resource collections"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:49:03.122Z",
+    "last_updated": "2026-08-28T12:16:47.418Z",
     "original_repository_info": {
       "archived": false,
       "id": 88435597,
