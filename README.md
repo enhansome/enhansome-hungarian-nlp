@@ -89,7 +89,7 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,868 | 🐛 93 | 🌐 Python | 📅 2026-08-28 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,868 | 🐛 93 | 🌐 Python | 📅 2026-08-29 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 746 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 191 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing

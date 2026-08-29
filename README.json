@@ -384,7 +384,7 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T04:34:16Z",
+                "last_commit": "2026-08-29T05:49:33Z",
                 "open_issues": 93,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
@@ -2030,7 +2030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:52:47.319Z",
+    "last_updated": "2026-08-29T07:28:13.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
