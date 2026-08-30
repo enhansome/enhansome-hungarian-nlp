@@ -89,8 +89,8 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,868 | 🐛 93 | 🌐 Python | 📅 2026-08-29 👌🚀💯 is a Python NLP Library for Many Human Languages
-* [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,869 | 🐛 93 | 🌐 Python | 📅 2026-08-29 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 746 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 191 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2025-08-23 👌💯 is a text processing system with inter-module communication via tsv + REST API
@@ -159,7 +159,7 @@ Notations:
 
 #### General Multilingual Large Language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,355 | 🐛 146 | 🌐 Python | 📅 2026-07-24)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,357 | 🐛 146 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -277,7 +277,7 @@ Notations:
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,189 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,189 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,190 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,190 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
   In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -342,4 +342,4 @@ Notations:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
