@@ -64,7 +64,7 @@ Notations:
 
 ### Morphology
 
-* [Simplemma](https://github.com/adbar/simplemma) ⭐ 215 | 🐛 6 | 🌐 Python | 📅 2026-08-12 👌🚀💯 is a simple multilingual lemmatizer for Python
+* [Simplemma](https://github.com/adbar/simplemma) ⭐ 215 | 🐛 9 | 🌐 Python | 📅 2026-08-12 👌🚀💯 is a simple multilingual lemmatizer for Python
 * [lara-hungarian-nlp](https://github.com/sedthh/lara-hungarian-nlp) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2019-03-07 👌🚀💯 LARA is a lightweight Python NLP library for ChatBots in Hungarian.
 * [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) ⭐ 17 | 🐛 4 | 🌐 Perl | 📅 2022-01-20 💯 Hungarian morphological analyzer based on Humor
 * [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) ⭐ 6 | 🐛 0 | 🌐 Makefile | 📅 2016-02-24 🚀💯 Hungarian morpholical analyzer and generator based on hunmorph.
@@ -114,7 +114,7 @@ Notations:
 ### Semantic analysis
 
 * [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2016-10-31 👌🚀💯 is an open-source sentiment analysis tool for Hungarian language, written in Python.
-* [hun-date-parser](https://github.com/szegedai/hun-date-parser) ⭐ 9 | 🐛 2 | 🌐 Python | 📅 2026-02-13 👌🚀💯 A tool for extracting datetime intervals from Hungarian sentences and turning datetime objects into Hungarian text.
+* [hun-date-parser](https://github.com/szegedai/hun-date-parser) ⭐ 10 | 🐛 3 | 🌐 Python | 📅 2026-02-13 👌🚀💯 A tool for extracting datetime intervals from Hungarian sentences and turning datetime objects into Hungarian text.
 * SZTAKI HunSum-1 models 👌🚀💯 [mT5-small-HunSum-1](https://huggingface.co/SZTAKI-HLT/mT5-small-HunSum-1), [mT5-base-HunSum-1](https://huggingface.co/SZTAKI-HLT/mT5-base-HunSum-1), [Bert2Bert-HunSum-1](https://huggingface.co/SZTAKI-HLT/Bert2Bert-HunSum-1),
 * [poltextLAB's models](https://huggingface.co/collections/poltextlab/emotions-babel-672b54c08540c5e11ecb9983) emotion classification models using 6-label and 9-label codebooks.
 
@@ -159,7 +159,7 @@ Notations:
 
 #### General Multilingual Large Language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,360 | 🐛 146 | 🌐 Python | 📅 2026-07-24)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,362 | 🐛 146 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -235,7 +235,7 @@ Notations:
 #### Parallel corpora
 
 * [MASSIVE dataset](https://github.com/alexa/massive) ⭐ 565 | 🐛 4 | 🌐 Python | 📅 2022-11-28 is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
-* [CSS10](https://github.com/Kyubyong/css10) ⭐ 491 | 🐛 11 | 🌐 HTML | 📅 2020-03-06 A Collection of Single Speaker Speech Datasets for 10 Languages including Hungarian
+* [CSS10](https://github.com/Kyubyong/css10) ⭐ 492 | 🐛 11 | 🌐 HTML | 📅 2020-03-06 A Collection of Single Speaker Speech Datasets for 10 Languages including Hungarian
 * [Hungarian-Russian Prisoner of War Database](https://github.com/dlt-rilmta/hadifogoly-adatbazis) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-05-03
 * [parallelbible](https://github.com/nytud/parallelbible) ⭐ 1 | 🐛 2 | 📅 2025-04-29 The Parallel Bible Corpus is based on the historical text material of the Old Hungarian Corpus, as its database contains all of the Old and Middle Hungarian Bible translations which are available in this corpus. The King James Bible and three Finnish translations are included in the database as well.
 * [PWS](https://github.com/nytud/PWS) ⭐ 0 | 🐛 0 | 🌐 TeX | 📅 2023-02-07 is a parallel collection of the Winograd schemas in seven languages (including Hungarian)
@@ -342,4 +342,4 @@ Notations:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

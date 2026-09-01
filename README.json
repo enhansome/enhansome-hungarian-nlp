@@ -67,7 +67,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-12T13:48:33Z",
-                "open_issues": 6,
+                "open_issues": 9,
                 "owner": "adbar",
                 "repo": "simplemma",
                 "stars": 215,
@@ -784,10 +784,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-13T15:39:23Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "szegedai",
                 "repo": "hun-date-parser",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "datetime",
                   "hungarian-language",
@@ -1146,7 +1146,7 @@
                     "open_issues": 146,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20360,
+                    "stars": 20362,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1622,7 +1622,7 @@
                     "open_issues": 11,
                     "owner": "Kyubyong",
                     "repo": "css10",
-                    "stars": 491,
+                    "stars": 492,
                     "topics": [
                       "dataset",
                       "speech",
@@ -2030,7 +2030,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T06:17:21.490Z",
+    "last_updated": "2026-09-01T05:44:46.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
