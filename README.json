@@ -384,11 +384,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T05:49:33Z",
+                "last_commit": "2026-09-02T04:57:15Z",
                 "open_issues": 93,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7870,
+                "stars": 7871,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -1426,7 +1426,7 @@
                     "open_issues": 1,
                     "owner": "UniversalDependencies",
                     "repo": "UD_Hungarian-Szeged",
-                    "stars": 6,
+                    "stars": 7,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1553,27 +1553,6 @@
                     "owner": "nytud",
                     "repo": "HAPP",
                     "stars": 1,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T12:16:47.418Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "HunEmPoli",
-                  "description": "corpus was built using pre-agenda speeches of the Hungarian National Assembly (2014-2018) and consists 764008 tokens/36475 sentences. Aspect level emotion annotation, with 39840 identified emotions, in addition, marked the keywords that evoked the emotion.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Corpus for Aspect Based Sentiment Analysis (ABSA) of Hungarian parliamentary texts, annotated at token level.",
-                    "homepage": null,
-                    "id": 575933629,
-                    "language": null,
-                    "license": null,
-                    "last_commit": "2023-01-09T14:04:54Z",
-                    "open_issues": 0,
-                    "owner": "poltextlab",
-                    "repo": "HunEmPoli_corpus",
-                    "stars": 0,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1786,27 +1765,6 @@
                 "owner": "nytud",
                 "repo": "panmorph",
                 "stars": 4,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T12:16:47.418Z"
-            },
-            {
-              "node_type": "item",
-              "title": "poltextLAB's sentiment lexicons",
-              "description": "Highly accurate sentiment lexicons for analysing news data",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 300641813,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2022-09-21T15:50:06Z",
-                "open_issues": 0,
-                "owner": "poltextlab",
-                "repo": "sentiment_hun",
-                "stars": 1,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2030,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T05:44:46.781Z",
+    "last_updated": "2026-09-02T05:08:59.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
