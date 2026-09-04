@@ -89,7 +89,7 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,872 | 🐛 93 | 🌐 Python | 📅 2026-09-03 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,873 | 🐛 94 | 🌐 Python | 📅 2026-09-04 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 746 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 191 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
@@ -159,7 +159,7 @@ Notations:
 
 #### General Multilingual Large Language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,361 | 🐛 146 | 🌐 Python | 📅 2026-07-24)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,365 | 🐛 146 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -256,7 +256,7 @@ Notations:
 ### Linguistic resources
 
 * [4lang](https://github.com/kornai/4lang) ⭐ 42 | 🐛 52 | 🌐 Python | 📅 2024-04-04 Concept dictionary using Eilenberg machines
-* [huwn](https://github.com/mmihaltz/huwn) ⭐ 11 | 🐛 0 | 📅 2026-08-12 Hungarian Wordnet
+* [huwn](https://github.com/mmihaltz/huwn) ⭐ 12 | 🐛 0 | 📅 2026-08-12 Hungarian Wordnet
 * [Manocska](https://github.com/ppke-nlpg/manocska) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2019-06-21 merges verb frames existing databases
 * [panmorph](https://github.com/dlt-rilmta/panmorph) ⭐ 4 | 🐛 0 | 📅 2021-03-10 Tagsets and description of Hungarian morphological analysers.
 * [PrevLex](https://github.com/kagnes/prevlex) ⭐ 0 | 🐛 0 | 📅 2021-06-02 List of phrasel verbs
@@ -342,4 +342,4 @@ Notations:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
