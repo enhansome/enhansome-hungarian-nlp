@@ -89,7 +89,7 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,873 | 🐛 94 | 🌐 Python | 📅 2026-09-04 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,872 | 🐛 94 | 🌐 Python | 📅 2026-09-04 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 746 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 191 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
@@ -134,7 +134,7 @@ Notations:
 
 ### Word embeddings
 
-* [wordvectors](https://github.com/Kyubyong/wordvectors) ⭐ 2,234 | 🐛 19 | 🌐 Python | 📅 2018-10-11 Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages
+* [wordvectors](https://github.com/Kyubyong/wordvectors) ⭐ 2,233 | 🐛 19 | 🌐 Python | 📅 2018-10-11 Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages
 * [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) ⭐ 1,460 | 🐛 53 | 🌐 Python | 📅 2021-05-19 Deep contextualized word representation trained for many languages
 * [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,322 | 🐛 10 | 🌐 Python | 📅 2022-07-18 Conceptnet numbermatch multi- and cross-lingual semantic word embeddings
 * [FastText\_multilingual](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,201 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 Multilingual word vectors in 78 languages
@@ -159,7 +159,7 @@ Notations:
 
 #### General Multilingual Large Language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,365 | 🐛 146 | 🌐 Python | 📅 2026-07-24)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,368 | 🐛 146 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -277,7 +277,7 @@ Notations:
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,195 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,195 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,197 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,197 | 🐛 449 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
   In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -342,4 +342,4 @@ Notations:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
