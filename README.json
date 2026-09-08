@@ -70,7 +70,7 @@
                 "open_issues": 9,
                 "owner": "adbar",
                 "repo": "simplemma",
-                "stars": 217,
+                "stars": 218,
                 "topics": [
                   "corpus-tools",
                   "language-detection",
@@ -384,11 +384,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T18:15:13Z",
+                "last_commit": "2026-09-07T14:32:11Z",
                 "open_issues": 94,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7873,
+                "stars": 7874,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -1146,7 +1146,7 @@
                     "open_issues": 148,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20374,
+                    "stars": 20378,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1580,7 +1580,7 @@
                     "open_issues": 4,
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 566,
+                    "stars": 567,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1867,7 +1867,7 @@
                 "open_issues": 449,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2200,
+                "stars": 2201,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T05:17:10.462Z",
+    "last_updated": "2026-09-08T05:22:00.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
