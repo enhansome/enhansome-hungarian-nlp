@@ -1867,7 +1867,7 @@
                 "open_issues": 449,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2203,
+                "stars": 2204,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T05:23:50.224Z",
+    "last_updated": "2026-09-10T05:22:22.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
