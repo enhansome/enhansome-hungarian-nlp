@@ -66,8 +66,8 @@
                 "id": 330707034,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-12T13:48:33Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-11T13:58:47Z",
+                "open_issues": 7,
                 "owner": "adbar",
                 "repo": "simplemma",
                 "stars": 218,
@@ -492,7 +492,7 @@
                 "open_issues": 3,
                 "owner": "huspacy",
                 "repo": "huspacy",
-                "stars": 191,
+                "stars": 192,
                 "topics": [
                   "dependency-parsing",
                   "hungarian",
@@ -1146,7 +1146,7 @@
                     "open_issues": 150,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20386,
+                    "stars": 20392,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1867,7 +1867,7 @@
                 "open_issues": 450,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2204,
+                "stars": 2209,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:20:14.256Z",
+    "last_updated": "2026-09-12T05:10:45.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
