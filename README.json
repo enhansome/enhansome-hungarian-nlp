@@ -388,7 +388,7 @@
                 "open_issues": 95,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7876,
+                "stars": 7878,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -1146,7 +1146,7 @@
                     "open_issues": 149,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20402,
+                    "stars": 20405,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1580,7 +1580,7 @@
                     "open_issues": 4,
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 568,
+                    "stars": 569,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1867,7 +1867,7 @@
                 "open_issues": 450,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2212,
+                "stars": 2213,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:21:38.108Z",
+    "last_updated": "2026-09-17T05:31:12.604Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
