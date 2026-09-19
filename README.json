@@ -70,7 +70,7 @@
                 "open_issues": 7,
                 "owner": "adbar",
                 "repo": "simplemma",
-                "stars": 219,
+                "stars": 218,
                 "topics": [
                   "corpus-tools",
                   "language-detection",
@@ -384,11 +384,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T17:58:52Z",
-                "open_issues": 95,
+                "last_commit": "2026-09-18T21:52:27Z",
+                "open_issues": 96,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7877,
+                "stars": 7878,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -1146,7 +1146,7 @@
                     "open_issues": 149,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20407,
+                    "stars": 20413,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1867,7 +1867,7 @@
                 "open_issues": 450,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2214,
+                "stars": 2215,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T05:17:45.783Z",
+    "last_updated": "2026-09-19T05:11:18.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
