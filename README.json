@@ -492,7 +492,7 @@
                 "open_issues": 3,
                 "owner": "huspacy",
                 "repo": "huspacy",
-                "stars": 192,
+                "stars": 193,
                 "topics": [
                   "dependency-parsing",
                   "hungarian",
@@ -1146,7 +1146,7 @@
                     "open_issues": 152,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20431,
+                    "stars": 20430,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1580,7 +1580,7 @@
                     "open_issues": 4,
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 570,
+                    "stars": 571,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T05:35:55.086Z",
+    "last_updated": "2026-09-27T05:52:06.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",

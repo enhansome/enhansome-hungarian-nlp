@@ -92,7 +92,7 @@ Notations:
 * [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,884 | 🐛 96 | 🌐 Python | 📅 2026-09-25 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 799 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 748 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
-* [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 192 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
+* [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2025-08-23 👌💯 is a text processing system with inter-module communication via tsv + REST API
 * [huNLP](https://github.com/oroszgy/hunlp) ⚠️ Archived 👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER
 * [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) ⭐ 7 | 🐛 12 | 🌐 C | 📅 2019-02-19 💯 GATE plugin containing Hungarian NLP tools as GATE processing resources
@@ -159,7 +159,7 @@ Notations:
 
 #### General Multilingual Large Language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,431 | 🐛 152 | 🌐 Python | 📅 2026-07-24)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,430 | 🐛 152 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -234,7 +234,7 @@ Notations:
 
 #### Parallel corpora
 
-* [MASSIVE dataset](https://github.com/alexa/massive) ⭐ 570 | 🐛 4 | 🌐 Python | 📅 2022-11-28 is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
+* [MASSIVE dataset](https://github.com/alexa/massive) ⭐ 571 | 🐛 4 | 🌐 Python | 📅 2022-11-28 is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
 * [CSS10](https://github.com/Kyubyong/css10) ⭐ 493 | 🐛 11 | 🌐 HTML | 📅 2020-03-06 A Collection of Single Speaker Speech Datasets for 10 Languages including Hungarian
 * [Hungarian-Russian Prisoner of War Database](https://github.com/dlt-rilmta/hadifogoly-adatbazis) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-05-03
 * [parallelbible](https://github.com/nytud/parallelbible) ⭐ 1 | 🐛 2 | 📅 2025-04-29 The Parallel Bible Corpus is based on the historical text material of the Old Hungarian Corpus, as its database contains all of the Old and Middle Hungarian Bible translations which are available in this corpus. The King James Bible and three Finnish translations are included in the database as well.
@@ -342,4 +342,4 @@ Notations:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
