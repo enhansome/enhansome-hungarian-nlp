@@ -89,7 +89,7 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,884 | 🐛 96 | 🌐 Python | 📅 2026-09-25 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,884 | 🐛 96 | 🌐 Python | 📅 2026-09-28 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 799 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 748 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
@@ -136,7 +136,7 @@ Notations:
 
 * [wordvectors](https://github.com/Kyubyong/wordvectors) ⭐ 2,233 | 🐛 19 | 🌐 Python | 📅 2018-10-11 Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages
 * [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) ⭐ 1,459 | 🐛 53 | 🌐 Python | 📅 2021-05-19 Deep contextualized word representation trained for many languages
-* [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,322 | 🐛 10 | 🌐 Python | 📅 2022-07-18 Conceptnet numbermatch multi- and cross-lingual semantic word embeddings
+* [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,323 | 🐛 10 | 🌐 Python | 📅 2022-07-18 Conceptnet numbermatch multi- and cross-lingual semantic word embeddings
 * [FastText\_multilingual](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,200 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 Multilingual word vectors in 78 languages
 * [FasText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html) pre-trained word vectors for 90 languages, trained on Wikipedia using fastText.
 * [FasText Common Crawl & Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html) pre-trained word vectors for 157 languages, trained on Wikipedia and the Common Crawl using fastText's CBOW model.
@@ -159,7 +159,7 @@ Notations:
 
 #### General Multilingual Large Language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,430 | 🐛 152 | 🌐 Python | 📅 2026-07-24)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,434 | 🐛 153 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -342,4 +342,4 @@ Notations:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
