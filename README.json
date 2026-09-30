@@ -66,7 +66,7 @@
                 "id": 330707034,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-25T10:24:42Z",
+                "last_commit": "2026-09-29T15:36:02Z",
                 "open_issues": 7,
                 "owner": "adbar",
                 "repo": "simplemma",
@@ -384,11 +384,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T04:56:08Z",
-                "open_issues": 96,
+                "last_commit": "2026-09-29T22:55:21Z",
+                "open_issues": 94,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7886,
+                "stars": 7889,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -1037,7 +1037,7 @@
                 "open_issues": 19,
                 "owner": "Kyubyong",
                 "repo": "wordvectors",
-                "stars": 2233,
+                "stars": 2235,
                 "topics": [
                   "fasttext",
                   "language",
@@ -1109,7 +1109,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1200,
+                "stars": 1201,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -1146,7 +1146,7 @@
                     "open_issues": 153,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20436,
+                    "stars": 20438,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1601,7 +1601,7 @@
                     "open_issues": 11,
                     "owner": "Kyubyong",
                     "repo": "css10",
-                    "stars": 493,
+                    "stars": 494,
                     "topics": [
                       "dataset",
                       "speech",
@@ -1867,7 +1867,7 @@
                 "open_issues": 453,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2221,
+                "stars": 2222,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:16:53.892Z",
+    "last_updated": "2026-09-30T06:02:37.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
