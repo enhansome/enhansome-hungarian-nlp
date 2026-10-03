@@ -388,7 +388,7 @@
                 "open_issues": 92,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7891,
+                "stars": 7889,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -784,7 +784,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-02-13T15:39:23Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "szegedai",
                 "repo": "hun-date-parser",
                 "stars": 10,
@@ -1037,7 +1037,7 @@
                 "open_issues": 19,
                 "owner": "Kyubyong",
                 "repo": "wordvectors",
-                "stars": 2235,
+                "stars": 2234,
                 "topics": [
                   "fasttext",
                   "language",
@@ -1143,10 +1143,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-24T18:56:01Z",
-                    "open_issues": 155,
+                    "open_issues": 156,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20445,
+                    "stars": 20453,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1413,7 +1413,7 @@
                 {
                   "node_type": "item",
                   "title": "Universal Dependencies",
-                  "description": null,
+                  "description": "UniversalDependencies/UD_Hungarian-Szeged",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1613,7 +1613,7 @@
                 {
                   "node_type": "item",
                   "title": "Hungarian-Russian Prisoner of War Database",
-                  "description": null,
+                  "description": "nytud/hadifogoly-adatbazis",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1867,7 +1867,7 @@
                 "open_issues": 453,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2224,
+                "stars": 2226,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1914,7 +1914,7 @@
             {
               "node_type": "item",
               "title": "Tutorial on Text Mining for Hungarian",
-              "description": null,
+              "description": "oroszgy/hungarian-text-mining-workshop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:19:12.443Z",
+    "last_updated": "2026-10-03T04:50:30.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
