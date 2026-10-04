@@ -384,7 +384,7 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T05:41:07Z",
+                "last_commit": "2026-10-03T23:03:08Z",
                 "open_issues": 92,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
@@ -1867,7 +1867,7 @@
                 "open_issues": 453,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2226,
+                "stars": 2229,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:49:43.378Z",
+    "last_updated": "2026-10-04T06:26:19.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
