@@ -89,7 +89,7 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,892 | 🐛 93 | 🌐 Python | 📅 2026-10-06 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,893 | 🐛 93 | 🌐 Python | 📅 2026-10-06 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 799 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 748 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 194 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
@@ -159,7 +159,7 @@ Notations:
 
 #### General Multilingual Large Language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,458 | 🐛 163 | 🌐 Python | 📅 2026-07-24)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,459 | 🐛 163 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
