@@ -420,7 +420,7 @@
                 "open_issues": 40,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 799,
+                "stars": 797,
                 "topics": [
                   "adapters",
                   "artificial-intelligence",
@@ -492,7 +492,7 @@
                 "open_issues": 3,
                 "owner": "huspacy",
                 "repo": "huspacy",
-                "stars": 194,
+                "stars": 193,
                 "topics": [
                   "dependency-parsing",
                   "hungarian",
@@ -1143,10 +1143,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-24T18:56:01Z",
-                    "open_issues": 163,
+                    "open_issues": 164,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20459,
+                    "stars": 20457,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1867,7 +1867,7 @@
                 "open_issues": 453,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2230,
+                "stars": 2232,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:36:17.826Z",
+    "last_updated": "2026-10-07T06:35:11.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
