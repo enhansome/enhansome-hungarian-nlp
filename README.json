@@ -384,11 +384,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T02:47:15Z",
+                "last_commit": "2026-10-07T15:51:04Z",
                 "open_issues": 93,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7893,
+                "stars": 7894,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -417,10 +417,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-07-22T19:16:10Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 797,
+                "stars": 798,
                 "topics": [
                   "adapters",
                   "artificial-intelligence",
@@ -1143,10 +1143,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-24T18:56:01Z",
-                    "open_issues": 164,
+                    "open_issues": 165,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20457,
+                    "stars": 20456,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1443,7 +1443,7 @@
                     "id": 354625922,
                     "language": null,
                     "license": null,
-                    "last_commit": "2026-08-18T15:07:34Z",
+                    "last_commit": "2026-10-07T17:22:05Z",
                     "open_issues": 0,
                     "owner": "ELTE-DH",
                     "repo": "regenykorpusz",
@@ -1867,7 +1867,7 @@
                 "open_issues": 453,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2232,
+                "stars": 2233,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T06:35:11.840Z",
+    "last_updated": "2026-10-08T06:42:27.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",

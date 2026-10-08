@@ -89,8 +89,8 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,893 | 🐛 93 | 🌐 Python | 📅 2026-10-06 👌🚀💯 is a Python NLP Library for Many Human Languages
-* [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 797 | 🐛 40 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,894 | 🐛 93 | 🌐 Python | 📅 2026-10-07 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 748 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2025-08-23 👌💯 is a text processing system with inter-module communication via tsv + REST API
@@ -159,7 +159,7 @@ Notations:
 
 #### General Multilingual Large Language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,457 | 🐛 164 | 🌐 Python | 📅 2026-07-24)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,456 | 🐛 165 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -211,7 +211,7 @@ Notations:
   * [HuRTE](https://github.com/nytud/HuRTE) ⭐ 0 | 🐛 1 | 📅 2025-01-17 is the  Hungarian version of the Recognizing Textual Entailment datasets
 * [ELTE Poetry Corpus](https://github.com/ELTE-DH/poetry-corpus) ⭐ 9 | 🐛 1 | 📅 2025-09-29 is a database of complete poems of 50 Hungarian canonical poets together with the sound devices of the poems and the grammatical features of words in XML format
 * [Universal Dependencies](https://github.com/UniversalDependencies/UD_Hungarian) ⭐ 7 | 🐛 1 | 📅 2026-05-06
-* [ELTE Novel Corpus](https://github.com/ELTE-DH/regenykorpusz) ⭐ 5 | 🐛 0 | 📅 2026-08-18 is a database of 400 Hungarian novels (with the annotation of structural units and the grammatical features of words in TEI XML format)
+* [ELTE Novel Corpus](https://github.com/ELTE-DH/regenykorpusz) ⭐ 5 | 🐛 0 | 📅 2026-10-07 is a database of 400 Hungarian novels (with the annotation of structural units and the grammatical features of words in TEI XML format)
 * [KorKor Pilotcorpus](https://github.com/vadno/korkor_pilot) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-02-10 is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations
 * [PrevCons](https://github.com/kagnes/prevcons) ⭐ 2 | 🐛 0 | 📅 2021-09-10 is a database of 21K hapaxes of verbs with verbal prefixes
 * [NerKor 1.41e](https://github.com/novakat/NYTK-NerKor-Cars-OntoNotesPP) ⭐ 1 | 🐛 0 | 📅 2022-02-17 A 1M+-token Hungarian named entity dataset with \~30 entity types derived from NYTK-NerKor
@@ -277,7 +277,7 @@ Notations:
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,232 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,232 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,233 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,233 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
   In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -342,4 +342,4 @@ Notations:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
