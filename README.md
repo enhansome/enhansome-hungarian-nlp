@@ -89,7 +89,7 @@ Notations:
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,894 | 🐛 93 | 🌐 Python | 📅 2026-10-07 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,894 | 🐛 92 | 🌐 Python | 📅 2026-10-08 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 798 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [spaCy StanfordNLP](https://github.com/explosion/spacy-stanfordnlp) ⭐ 748 | 🐛 14 | 🌐 Python | 📅 2024-08-15 👌🚀💯 wraps the StanfordNLP library, so you can use Stanford's models as a spaCy pipeline
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
@@ -114,7 +114,7 @@ Notations:
 ### Semantic analysis
 
 * [SentimentAnalysisHUN](https://github.com/dhuszti/SentimentAnalysisHUN) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2016-10-31 👌🚀💯 is an open-source sentiment analysis tool for Hungarian language, written in Python.
-* [hun-date-parser](https://github.com/szegedai/hun-date-parser) ⭐ 10 | 🐛 4 | 🌐 Python | 📅 2026-02-13 👌🚀💯 A tool for extracting datetime intervals from Hungarian sentences and turning datetime objects into Hungarian text.
+* [hun-date-parser](https://github.com/szegedai/hun-date-parser) ⭐ 10 | 🐛 5 | 🌐 Python | 📅 2026-02-13 👌🚀💯 A tool for extracting datetime intervals from Hungarian sentences and turning datetime objects into Hungarian text.
 * SZTAKI HunSum-1 models 👌🚀💯 [mT5-small-HunSum-1](https://huggingface.co/SZTAKI-HLT/mT5-small-HunSum-1), [mT5-base-HunSum-1](https://huggingface.co/SZTAKI-HLT/mT5-base-HunSum-1), [Bert2Bert-HunSum-1](https://huggingface.co/SZTAKI-HLT/Bert2Bert-HunSum-1),
 * [poltextLAB's models](https://huggingface.co/collections/poltextlab/emotions-babel-672b54c08540c5e11ecb9983) emotion classification models using 6-label and 9-label codebooks.
 
@@ -159,7 +159,7 @@ Notations:
 
 #### General Multilingual Large Language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,456 | 🐛 165 | 🌐 Python | 📅 2026-07-24)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,454 | 🐛 166 | 🌐 Python | 📅 2026-07-24)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -277,7 +277,7 @@ Notations:
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,233 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,233 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,234 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,234 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
   In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -342,4 +342,4 @@ Notations:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
