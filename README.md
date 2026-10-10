@@ -137,7 +137,7 @@ Notations:
 * [wordvectors](https://github.com/Kyubyong/wordvectors) ⭐ 2,234 | 🐛 19 | 🌐 Python | 📅 2018-10-11 Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages
 * [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) ⭐ 1,459 | 🐛 53 | 🌐 Python | 📅 2021-05-19 Deep contextualized word representation trained for many languages
 * [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,323 | 🐛 10 | 🌐 Python | 📅 2022-07-18 Conceptnet numbermatch multi- and cross-lingual semantic word embeddings
-* [FastText\_multilingual](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,201 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 Multilingual word vectors in 78 languages
+* [FastText\_multilingual](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,202 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 Multilingual word vectors in 78 languages
 * [FasText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html) pre-trained word vectors for 90 languages, trained on Wikipedia using fastText.
 * [FasText Common Crawl & Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html) pre-trained word vectors for 157 languages, trained on Wikipedia and the Common Crawl using fastText's CBOW model.
 * [polyglot vectors](https://sites.google.com/site/rmyeid/projects/polyglot) polgyglot embeddings on Wikipedia
@@ -277,7 +277,7 @@ Notations:
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,234 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,234 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,236 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,236 | 🐛 453 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap(OSM)](https://www.openstreetmap.org/)
   In [Hungary](http://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -342,4 +342,4 @@ Notations:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

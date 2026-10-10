@@ -1109,7 +1109,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1201,
+                "stars": 1202,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -1867,7 +1867,7 @@
                 "open_issues": 453,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2234,
+                "stars": 2236,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:49:05.847Z",
+    "last_updated": "2026-10-10T06:27:00.527Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
