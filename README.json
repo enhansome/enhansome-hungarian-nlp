@@ -1146,7 +1146,7 @@
                     "open_issues": 166,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20458,
+                    "stars": 20457,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1867,7 +1867,7 @@
                 "open_issues": 453,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2236,
+                "stars": 2238,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T06:32:08.105Z",
+    "last_updated": "2026-10-12T06:37:58.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
