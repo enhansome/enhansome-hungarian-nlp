@@ -288,7 +288,7 @@
                 "open_issues": 48,
                 "owner": "dbpedia-spotlight",
                 "repo": "dbpedia-spotlight",
-                "stars": 760,
+                "stars": 761,
                 "topics": [
                   "content-tagging",
                   "dbpedia-spotlight",
@@ -384,7 +384,7 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T19:20:54Z",
+                "last_commit": "2026-10-19T01:28:41Z",
                 "open_issues": 94,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
@@ -1146,7 +1146,7 @@
                     "open_issues": 166,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20473,
+                    "stars": 20475,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1405,7 +1405,7 @@
                     "open_issues": 1,
                     "owner": "ELTE-DH",
                     "repo": "poetry-corpus",
-                    "stars": 9,
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1580,7 +1580,7 @@
                     "open_issues": 4,
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 574,
+                    "stars": 575,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1867,7 +1867,7 @@
                 "open_issues": 453,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2247,
+                "stars": 2248,
                 "topics": [
                   "dataset",
                   "gis",
@@ -1988,7 +1988,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T05:12:04.846Z",
+    "last_updated": "2026-10-19T05:24:02.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
