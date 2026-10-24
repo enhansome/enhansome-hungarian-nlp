@@ -66,8 +66,8 @@
                 "id": 330707034,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-30T16:00:34Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-23T14:24:08Z",
+                "open_issues": 5,
                 "owner": "adbar",
                 "repo": "simplemma",
                 "stars": 218,
@@ -386,11 +386,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T16:13:14Z",
-                "open_issues": 93,
+                "last_commit": "2026-10-23T20:53:39Z",
+                "open_issues": 96,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7904,
+                "stars": 7905,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -1269,7 +1269,7 @@
                     "open_issues": 169,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20487,
+                    "stars": 20490,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T05:27:18.282Z",
+    "last_updated": "2026-10-24T05:06:59.027Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
