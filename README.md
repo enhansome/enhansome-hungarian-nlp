@@ -99,8 +99,8 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,903 | 🐛 100 | 🌐 Python | 📅 2026-10-25 👌🚀💯 is a Python NLP Library for Many Human Languages
-* [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 797 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,904 | 🐛 102 | 🌐 Python | 📅 2026-10-25 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2025-08-23 👌💯 is a text processing system with inter-module communication via tsv + REST API
 * [huNLP](https://github.com/oroszgy/hunlp) ⚠️ Archived 👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER
@@ -204,7 +204,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### General multilingual large language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,492 | 🐛 170 | 🌐 Python | 📅 2026-10-12)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,495 | 🐛 171 | 🌐 Python | 📅 2026-10-12)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -274,7 +274,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 * [ELTE Poetry Corpus](https://github.com/ELTE-DH/poetry-corpus) ⭐ 10 | 🐛 1 | 📅 2025-09-29 is a database of complete poems of 50 Hungarian canonical poets together with the sound devices of the poems and the grammatical features of words in XML format
 * [Universal Dependencies](https://github.com/UniversalDependencies/UD_Hungarian) ⭐ 7 | 🐛 1 | 📅 2026-05-06
 * [ELTE Novel Corpus](https://github.com/ELTE-DH/regenykorpusz) ⭐ 5 | 🐛 0 | 📅 2026-10-07 is a database of 400 Hungarian novels (with the annotation of structural units and the grammatical features of words in TEI XML format)
-* [KorKor Pilotcorpus](https://github.com/vadno/korkor_pilot) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2023-02-10 is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations
+* [KorKor Pilotcorpus](https://github.com/vadno/korkor_pilot) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2023-02-10 is a gold standard corpus consisting of multiple layers such as dependency parse and coreference annotations
 * [PrevCons](https://github.com/kagnes/prevcons) ⭐ 2 | 🐛 0 | 📅 2021-09-10 is a database of 21K hapaxes of verbs with verbal prefixes
 * [Hungarian Folk Song Corpus](https://github.com/ELTE-DH/folk-song-corpus) ⭐ 2 | 🐛 0 | 📅 2026-06-23 is a corpus of Hungarian folk songs in TEI XML
 * [NerKor 1.41e](https://github.com/novakat/NYTK-NerKor-Cars-OntoNotesPP) ⭐ 1 | 🐛 0 | 📅 2022-02-17 A 1M+-token Hungarian named entity dataset with \~30 entity types derived from NYTK-NerKor
@@ -309,7 +309,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### Parallel corpora
 
-* [MASSIVE dataset](https://github.com/alexa/massive) ⭐ 575 | 🐛 4 | 🌐 Python | 📅 2022-11-28 is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
+* [MASSIVE dataset](https://github.com/alexa/massive) ⭐ 576 | 🐛 4 | 🌐 Python | 📅 2022-11-28 is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
 * [Hungarian-Russian Prisoner of War Database](https://github.com/dlt-rilmta/hadifogoly-adatbazis) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-05-03
 * [parallelbible](https://github.com/nytud/parallelbible) ⭐ 1 | 🐛 2 | 📅 2025-04-29 The Parallel Bible Corpus is based on the historical text material of the Old Hungarian Corpus, as its database contains all of the Old and Middle Hungarian Bible translations which are available in this corpus. The King James Bible and three Finnish translations are included in the database as well.
 * [PWS](https://github.com/nytud/PWS) ⭐ 0 | 🐛 0 | 🌐 TeX | 📅 2023-02-07 is a parallel collection of the Winograd schemas in seven languages (including Hungarian)
@@ -351,7 +351,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,261 | 🐛 456 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,261 | 🐛 456 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,262 | 🐛 456 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,262 | 🐛 456 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/)
   In [Hungary](https://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -428,4 +428,4 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

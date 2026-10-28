@@ -387,10 +387,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-25T23:20:35Z",
-                "open_issues": 100,
+                "open_issues": 102,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7903,
+                "stars": 7904,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -422,7 +422,7 @@
                 "open_issues": 41,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 797,
+                "stars": 796,
                 "topics": [
                   "adapters",
                   "artificial-intelligence",
@@ -1266,10 +1266,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-12T20:24:26Z",
-                    "open_issues": 170,
+                    "open_issues": 171,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20492,
+                    "stars": 20495,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1633,7 +1633,7 @@
                     "open_issues": 0,
                     "owner": "vadno",
                     "repo": "korkor_pilot",
-                    "stars": 3,
+                    "stars": 4,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1787,7 +1787,7 @@
                     "open_issues": 4,
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 575,
+                    "stars": 576,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 456,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2261,
+                "stars": 2262,
                 "topics": [
                   "dataset",
                   "gis",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T05:42:54.921Z",
+    "last_updated": "2026-10-28T06:21:51.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
