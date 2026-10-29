@@ -66,8 +66,8 @@
                 "id": 330707034,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T14:24:08Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-28T14:55:00Z",
+                "open_issues": 6,
                 "owner": "adbar",
                 "repo": "simplemma",
                 "stars": 218,
@@ -386,11 +386,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-25T23:20:35Z",
-                "open_issues": 102,
+                "last_commit": "2026-10-29T04:54:22Z",
+                "open_issues": 103,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7904,
+                "stars": 7905,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -1074,8 +1074,8 @@
                 "id": 1334866216,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-21T08:24:51Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-28T17:22:13Z",
+                "open_issues": 0,
                 "owner": "aporkolab",
                 "repo": "Kalliope",
                 "stars": 0,
@@ -1269,7 +1269,7 @@
                     "open_issues": 171,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20495,
+                    "stars": 20496,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 456,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2262,
+                "stars": 2263,
                 "topics": [
                   "dataset",
                   "gis",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:21:51.524Z",
+    "last_updated": "2026-10-29T06:32:18.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
