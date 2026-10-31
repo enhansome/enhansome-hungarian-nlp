@@ -99,7 +99,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,904 | 🐛 103 | 🌐 Python | 📅 2026-10-30 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,905 | 🐛 103 | 🌐 Python | 📅 2026-10-30 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2025-08-23 👌💯 is a text processing system with inter-module communication via tsv + REST API
@@ -161,13 +161,13 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 * [Diacritics\_restoration](https://github.com/aielte-research/Diacritics_restoration) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2025-01-05 🚀💯 Lightweight Diacritics Restoration with Dilated Convolutional Neural Networks
 * [emLam](https://github.com/dlt-rilmta/emLam) ⭐ 3 | 🐛 3 | 🌐 Python | 📅 2020-04-05 👌🚀💯 Preprocessing scripts for Hungarian Language Modeling
 * [anonymizer\_hu](https://github.com/nytud/anonymizer_hu) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2022-08-18 🚀💯 The Hungarian anonymization tool for CURLICAT
-* [Kalliopé](https://github.com/aporkolab/Kalliope) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-10-28 👌🚀💯 Hungarian verse scansion, metre and rhyme-scheme analyzer with web demo, Docker image and REST API
+* [Kalliopé](https://github.com/aporkolab/Kalliope) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2026-10-31 👌🚀💯 Hungarian verse scansion, metre and rhyme-scheme analyzer with web demo, Docker image and REST API
 
 ## Language models
 
 ### Word embeddings
 
-* [wordvectors](https://github.com/Kyubyong/wordvectors) ⭐ 2,235 | 🐛 19 | 🌐 Python | 📅 2018-10-11 Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages 🏛️
+* [wordvectors](https://github.com/Kyubyong/wordvectors) ⭐ 2,236 | 🐛 19 | 🌐 Python | 📅 2018-10-11 Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages 🏛️
 * [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) ⭐ 1,460 | 🐛 53 | 🌐 Python | 📅 2021-05-19 Deep contextualized word representation trained for many languages 🏛️
 * [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,323 | 🐛 10 | 🌐 Python | 📅 2022-07-18 Conceptnet numberbatch multi- and cross-lingual semantic word embeddings
 * [BytePair Embeddings](https://github.com/bheinzerling/bpemb) ⭐ 1,227 | 🐛 6 | 🌐 Python | 📅 2024-10-01 pretrained subword embeddings, including Hungarian, downloadable in many formats
@@ -204,7 +204,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### General multilingual large language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,497 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,503 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -351,7 +351,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,263 | 🐛 456 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,263 | 🐛 456 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,265 | 🐛 457 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,265 | 🐛 457 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/)
   In [Hungary](https://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -428,4 +428,4 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
