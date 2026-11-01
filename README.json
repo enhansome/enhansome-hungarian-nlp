@@ -386,8 +386,8 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T09:24:00Z",
-                "open_issues": 103,
+                "last_commit": "2026-10-31T21:18:32Z",
+                "open_issues": 104,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
                 "stars": 7905,
@@ -1074,7 +1074,7 @@
                 "id": 1334866216,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T04:43:55Z",
+                "last_commit": "2026-10-31T11:52:37Z",
                 "open_issues": 0,
                 "owner": "aporkolab",
                 "repo": "Kalliope",
@@ -1159,7 +1159,7 @@
                 "open_issues": 53,
                 "owner": "HIT-SCIR",
                 "repo": "ELMoForManyLangs",
-                "stars": 1460,
+                "stars": 1459,
                 "topics": [
                   "elmo",
                   "multilingual",
@@ -1269,7 +1269,7 @@
                     "open_issues": 171,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20503,
+                    "stars": 20506,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 457,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2265,
+                "stars": 2266,
                 "topics": [
                   "dataset",
                   "gis",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T06:21:49.264Z",
+    "last_updated": "2026-11-01T06:54:21.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
