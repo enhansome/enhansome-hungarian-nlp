@@ -386,8 +386,8 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T21:18:32Z",
-                "open_issues": 104,
+                "last_commit": "2026-11-01T07:00:15Z",
+                "open_issues": 105,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
                 "stars": 7905,
@@ -1269,7 +1269,7 @@
                     "open_issues": 171,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20506,
+                    "stars": 20511,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1787,7 +1787,7 @@
                     "open_issues": 4,
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 576,
+                    "stars": 577,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 457,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2266,
+                "stars": 2269,
                 "topics": [
                   "dataset",
                   "gis",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:54:21.767Z",
+    "last_updated": "2026-11-02T06:54:52.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
