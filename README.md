@@ -74,7 +74,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Morphology
 
-* [Simplemma](https://github.com/adbar/simplemma) ⭐ 219 | 🐛 6 | 🌐 Python | 📅 2026-10-29 👌🚀💯 is a simple multilingual lemmatizer for Python
+* [Simplemma](https://github.com/adbar/simplemma) ⭐ 219 | 🐛 7 | 🌐 Python | 📅 2026-11-05 👌🚀💯 is a simple multilingual lemmatizer for Python
 * [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) ⭐ 18 | 🐛 4 | 🌐 Perl | 📅 2022-01-20 💯 Hungarian morphological analyzer based on Humor
 * [SampoNLP](https://github.com/AragonerUA/SampoNLP) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-12-11 👌🚀💯 Unsupervised morpheme discovery for Uralic languages including Hungarian, with a Rust core
 * [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) ⭐ 6 | 🐛 0 | 🌐 Makefile | 📅 2016-02-24 🚀💯 Hungarian morphological analyzer and generator based on hunmorph.
@@ -228,7 +228,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 * [HuLU evaluate](https://github.com/nytud/HuLU/tree/master/evaluate) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-08-28 is a library for evaluating and training language models on Hungarian tasks within the HuLU benchmark.
 * [OpenHuEval](https://github.com/opendatalab/OpenHuEval) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-08-20 is an LLM benchmark focusing on the Hungarian language.
-* [HuGME](https://github.com/nytud/hugme) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-11-04 is an LLM assessment framework that rates the Hungarian language skills and cultural knowledge of models (hallucination, relevance, bias and more).
+* [HuGME](https://github.com/nytud/hugme) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-11-05 is an LLM assessment framework that rates the Hungarian language skills and cultural knowledge of models (hallucination, relevance, bias and more).
 * [(M)MTEB](https://huggingface.co/spaces/mteb/leaderboard) is a dataset and leaderboard comparing 100+ text embedding models across 1000+ languages including Hungarian.
 * [EuroEval](https://euroeval.com/leaderboards/Monolingual/hungarian#__tabbed_1_1) is a language model benchmarking framework that supports evaluating all types of language models out there: encoders, decoders, encoder-decoders, base models, and instruction tuned models.
 * [Hu-MMLU](https://huggingface.co/datasets/NYTK/hu-mmlu) is a Hungarian translation and alignment of the MMLU benchmark, organised into one config per subject.
@@ -351,7 +351,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,273 | 🐛 457 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,273 | 🐛 457 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,274 | 🐛 458 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,274 | 🐛 458 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/)
   In [Hungary](https://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -428,4 +428,4 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
