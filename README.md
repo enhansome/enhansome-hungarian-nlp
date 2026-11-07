@@ -74,7 +74,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Morphology
 
-* [Simplemma](https://github.com/adbar/simplemma) ⭐ 219 | 🐛 7 | 🌐 Python | 📅 2026-11-05 👌🚀💯 is a simple multilingual lemmatizer for Python
+* [Simplemma](https://github.com/adbar/simplemma) ⭐ 219 | 🐛 6 | 🌐 Python | 📅 2026-11-06 👌🚀💯 is a simple multilingual lemmatizer for Python
 * [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) ⭐ 18 | 🐛 4 | 🌐 Perl | 📅 2022-01-20 💯 Hungarian morphological analyzer based on Humor
 * [SampoNLP](https://github.com/AragonerUA/SampoNLP) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-12-11 👌🚀💯 Unsupervised morpheme discovery for Uralic languages including Hungarian, with a Rust core
 * [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) ⭐ 6 | 🐛 0 | 🌐 Makefile | 📅 2016-02-24 🚀💯 Hungarian morphological analyzer and generator based on hunmorph.
@@ -101,7 +101,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 * [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,906 | 🐛 103 | 🌐 Python | 📅 2026-11-05 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
-* [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 193 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
+* [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 193 | 🐛 4 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2025-08-23 👌💯 is a text processing system with inter-module communication via tsv + REST API
 * [huNLP](https://github.com/oroszgy/hunlp) ⚠️ Archived 👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER
 * [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) ⭐ 7 | 🐛 12 | 🌐 C | 📅 2019-02-19 💯 GATE plugin containing Hungarian NLP tools as GATE processing resources
@@ -169,7 +169,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 * [wordvectors](https://github.com/Kyubyong/wordvectors) ⭐ 2,236 | 🐛 19 | 🌐 Python | 📅 2018-10-11 Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages 🏛️
 * [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) ⭐ 1,459 | 🐛 53 | 🌐 Python | 📅 2021-05-19 Deep contextualized word representation trained for many languages 🏛️
-* [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,323 | 🐛 10 | 🌐 Python | 📅 2022-07-18 Conceptnet numberbatch multi- and cross-lingual semantic word embeddings
+* [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,322 | 🐛 10 | 🌐 Python | 📅 2022-07-18 Conceptnet numberbatch multi- and cross-lingual semantic word embeddings
 * [BytePair Embeddings](https://github.com/bheinzerling/bpemb) ⭐ 1,227 | 🐛 6 | 🌐 Python | 📅 2024-10-01 pretrained subword embeddings, including Hungarian, downloadable in many formats
 * [FastText\_multilingual](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,203 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 Multilingual word vectors in 78 languages
 * [fastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html) pre-trained word vectors for 90 languages, trained on Wikipedia using fastText.
@@ -204,7 +204,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### General multilingual large language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,514 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,511 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -228,7 +228,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 * [HuLU evaluate](https://github.com/nytud/HuLU/tree/master/evaluate) ⭐ 16 | 🐛 0 | 🌐 Python | 📅 2026-08-28 is a library for evaluating and training language models on Hungarian tasks within the HuLU benchmark.
 * [OpenHuEval](https://github.com/opendatalab/OpenHuEval) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2025-08-20 is an LLM benchmark focusing on the Hungarian language.
-* [HuGME](https://github.com/nytud/hugme) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-11-05 is an LLM assessment framework that rates the Hungarian language skills and cultural knowledge of models (hallucination, relevance, bias and more).
+* [HuGME](https://github.com/nytud/hugme) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-11-06 is an LLM assessment framework that rates the Hungarian language skills and cultural knowledge of models (hallucination, relevance, bias and more).
 * [(M)MTEB](https://huggingface.co/spaces/mteb/leaderboard) is a dataset and leaderboard comparing 100+ text embedding models across 1000+ languages including Hungarian.
 * [EuroEval](https://euroeval.com/leaderboards/Monolingual/hungarian#__tabbed_1_1) is a language model benchmarking framework that supports evaluating all types of language models out there: encoders, decoders, encoder-decoders, base models, and instruction tuned models.
 * [Hu-MMLU](https://huggingface.co/datasets/NYTK/hu-mmlu) is a Hungarian translation and alignment of the MMLU benchmark, organised into one config per subject.
@@ -351,14 +351,14 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,274 | 🐛 458 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,274 | 🐛 458 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,276 | 🐛 459 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,276 | 🐛 459 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/)
   In [Hungary](https://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
 
 ### Speech related data
 
-* [CSS10](https://github.com/Kyubyong/css10) ⭐ 494 | 🐛 11 | 🌐 HTML | 📅 2020-03-06 A Collection of Single Speaker Speech Datasets for 10 Languages including Hungarian
+* [CSS10](https://github.com/Kyubyong/css10) ⭐ 494 | 🐛 10 | 🌐 HTML | 📅 2020-03-06 A Collection of Single Speaker Speech Datasets for 10 Languages including Hungarian
 * [Hungarian Single Speaker Speech Dataset](https://www.kaggle.com/bryanpark/hungarian-single-speaker-speech-dataset)
 * [Mozilla Common Voice](https://commonvoice.mozilla.org/hu/datasets)
 * [VoxPopuli](https://huggingface.co/datasets/facebook/voxpopuli) 63 hours of transcribed Hungarian speech from European Parliament proceedings (CC0)
@@ -428,4 +428,4 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
