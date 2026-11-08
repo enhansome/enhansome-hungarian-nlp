@@ -390,7 +390,7 @@
                 "open_issues": 103,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7906,
+                "stars": 7908,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -461,7 +461,7 @@
                 "open_issues": 4,
                 "owner": "huspacy",
                 "repo": "huspacy",
-                "stars": 193,
+                "stars": 194,
                 "topics": [
                   "dependency-parsing",
                   "hungarian",
@@ -498,7 +498,7 @@
                 "id": 152776579,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2025-08-23T22:13:34Z",
+                "last_commit": "2026-11-07T19:48:50Z",
                 "open_issues": 7,
                 "owner": "nytud",
                 "repo": "emtsv",
@@ -1269,7 +1269,7 @@
                     "open_issues": 171,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20511,
+                    "stars": 20512,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 459,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2276,
+                "stars": 2275,
                 "topics": [
                   "dataset",
                   "gis",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T06:38:54.679Z",
+    "last_updated": "2026-11-08T06:45:19.612Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",

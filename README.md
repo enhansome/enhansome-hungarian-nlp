@@ -99,10 +99,10 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,906 | 🐛 103 | 🌐 Python | 📅 2026-11-05 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,908 | 🐛 103 | 🌐 Python | 📅 2026-11-05 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
-* [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 193 | 🐛 4 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
-* [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2025-08-23 👌💯 is a text processing system with inter-module communication via tsv + REST API
+* [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 194 | 🐛 4 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
+* [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2026-11-07 👌💯 is a text processing system with inter-module communication via tsv + REST API
 * [huNLP](https://github.com/oroszgy/hunlp) ⚠️ Archived 👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER
 * [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) ⭐ 7 | 🐛 12 | 🌐 C | 📅 2019-02-19 💯 GATE plugin containing Hungarian NLP tools as GATE processing resources
 * [eszterland](https://github.com/damesek/eszterlanc) ⭐ 4 | 🐛 0 | 🌐 Clojure | 📅 2023-11-06 👌💯 Clojurized access to magyarlanc
@@ -204,7 +204,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### General multilingual large language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,511 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,512 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -351,7 +351,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,276 | 🐛 459 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,276 | 🐛 459 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,275 | 🐛 459 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,275 | 🐛 459 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 3 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/)
   In [Hungary](https://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -428,4 +428,4 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
