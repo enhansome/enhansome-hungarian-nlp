@@ -386,11 +386,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T01:16:27Z",
+                "last_commit": "2026-11-12T17:30:01Z",
                 "open_issues": 112,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7914,
+                "stars": 7915,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -1205,7 +1205,7 @@
                 "open_issues": 6,
                 "owner": "bheinzerling",
                 "repo": "bpemb",
-                "stars": 1228,
+                "stars": 1229,
                 "topics": [
                   "embeddings",
                   "multilingual",
@@ -1269,7 +1269,7 @@
                     "open_issues": 171,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20523,
+                    "stars": 20528,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 460,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2281,
+                "stars": 2283,
                 "topics": [
                   "dataset",
                   "gis",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T07:47:03.757Z",
+    "last_updated": "2026-11-13T07:24:29.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
@@ -2360,7 +2360,7 @@
       "open_issues": 0,
       "owner": "oroszgy",
       "repo": "awesome-hungarian-nlp",
-      "stars": 286,
+      "stars": 287,
       "topics": [
         "awesome",
         "awesome-list",
