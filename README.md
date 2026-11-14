@@ -99,7 +99,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,915 | 🐛 112 | 🌐 Python | 📅 2026-11-12 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,916 | 🐛 112 | 🌐 Python | 📅 2026-11-14 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 797 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 194 | 🐛 4 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2026-11-07 👌💯 is a text processing system with inter-module communication via tsv + REST API
@@ -204,7 +204,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### General multilingual large language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,528 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,533 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -428,4 +428,4 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
