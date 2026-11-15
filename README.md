@@ -99,9 +99,9 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,916 | 🐛 112 | 🌐 Python | 📅 2026-11-14 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,918 | 🐛 103 | 🌐 Python | 📅 2026-11-14 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 797 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
-* [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 194 | 🐛 4 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
+* [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 194 | 🐛 3 | 🌐 Python | 📅 2025-11-19 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2026-11-07 👌💯 is a text processing system with inter-module communication via tsv + REST API
 * [huNLP](https://github.com/oroszgy/hunlp) ⚠️ Archived 👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER
 * [hunlp-GATE](https://github.com/dlt-rilmta/hunlp-GATE) ⭐ 7 | 🐛 12 | 🌐 C | 📅 2019-02-19 💯 GATE plugin containing Hungarian NLP tools as GATE processing resources
@@ -115,7 +115,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Syntactic parsers
 
-* [benepar](https://github.com/nikitakit/self-attentive-parser) ⭐ 913 | 🐛 49 | 🌐 Python | 📅 2022-01-10 👌🚀💯🏛️ A high-accuracy parser with models for 11 languages, implemented in Python. Based on Constituency Parsing with a Self-Attentive Encoder from ACL 2018.
+* [benepar](https://github.com/nikitakit/self-attentive-parser) ⭐ 914 | 🐛 49 | 🌐 Python | 📅 2022-01-10 👌🚀💯🏛️ A high-accuracy parser with models for 11 languages, implemented in Python. Based on Constituency Parsing with a Self-Attentive Encoder from ACL 2018.
 * [HunParse](https://github.com/recski/HunParse) ⭐ 4 | 🐛 0 | 📅 2012-08-17 🚀💯🏛️ An NLTK-based parser using KR-style morphological annotation
 * [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2018-11-12 A parser based on psycholinguistics principles
 * [hunpars](http://mokk.bme.hu/resources/hunpars/) 🚀💯 A rule based Hungarian syntactical analyzer
@@ -204,7 +204,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### General multilingual large language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,533 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,535 | 🐛 171 | 🌐 Python | 📅 2026-10-29)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -351,7 +351,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,283 | 🐛 460 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,283 | 🐛 460 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,284 | 🐛 460 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,284 | 🐛 460 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 5 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/)
   In [Hungary](https://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -400,7 +400,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Courses
 
-* [NLP and Foundation Models lecture slides (ELTE)](https://github.com/elte-nlp/elte-nlp-course) ⭐ 45 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-10-17
+* [NLP and Foundation Models lecture slides (ELTE)](https://github.com/elte-nlp/elte-nlp-course) ⭐ 45 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-11-14
 * [NLP course materials in Hungarian (University of Debrecen)](https://github.com/Clinical-Bioinformatics-Debrecen/nlp_magyar_2025) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-12-12
 * [NLP Courses by the University Of Szeged](https://www.inf.u-szeged.hu/~rfarkas/hallgatok.html)
 * [NLP Courses by the HLT Group of the Budapest University of Technology](https://hlt.bme.hu/hu/courses)
@@ -428,4 +428,4 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
