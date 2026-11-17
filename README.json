@@ -70,7 +70,7 @@
                 "open_issues": 6,
                 "owner": "adbar",
                 "repo": "simplemma",
-                "stars": 218,
+                "stars": 219,
                 "topics": [
                   "corpus-tools",
                   "language-detection",
@@ -457,7 +457,7 @@
                 "id": 88849228,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2025-11-19T18:19:37Z",
+                "last_commit": "2026-11-16T11:34:16Z",
                 "open_issues": 3,
                 "owner": "huspacy",
                 "repo": "huspacy",
@@ -1269,7 +1269,7 @@
                     "open_issues": 171,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20537,
+                    "stars": 20544,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1340,8 +1340,8 @@
                 "id": 922971687,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T13:17:36Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-16T16:40:15Z",
+                "open_issues": 1,
                 "owner": "nytud",
                 "repo": "hugme",
                 "stars": 9,
@@ -1787,7 +1787,7 @@
                     "open_issues": 4,
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 577,
+                    "stars": 578,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2067,10 +2067,10 @@
                 "language": "HTML",
                 "license": "NOASSERTION",
                 "last_commit": "2024-04-22T12:24:13Z",
-                "open_issues": 460,
+                "open_issues": 462,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2286,
+                "stars": 2287,
                 "topics": [
                   "dataset",
                   "gis",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T07:22:21.325Z",
+    "last_updated": "2026-11-17T08:33:43.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
