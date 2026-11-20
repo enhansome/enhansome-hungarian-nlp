@@ -74,7 +74,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Morphology
 
-* [Simplemma](https://github.com/adbar/simplemma) ⭐ 219 | 🐛 8 | 🌐 Python | 📅 2026-11-18 👌🚀💯 is a simple multilingual lemmatizer for Python
+* [Simplemma](https://github.com/adbar/simplemma) ⭐ 219 | 🐛 5 | 🌐 Python | 📅 2026-11-19 👌🚀💯 is a simple multilingual lemmatizer for Python
 * [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) ⭐ 18 | 🐛 4 | 🌐 Perl | 📅 2022-01-20 💯 Hungarian morphological analyzer based on Humor
 * [SampoNLP](https://github.com/AragonerUA/SampoNLP) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-12-11 👌🚀💯 Unsupervised morpheme discovery for Uralic languages including Hungarian, with a Rust core
 * [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) ⭐ 6 | 🐛 0 | 🌐 Makefile | 📅 2016-02-24 🚀💯 Hungarian morphological analyzer and generator based on hunmorph.
@@ -99,8 +99,8 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,917 | 🐛 104 | 🌐 Python | 📅 2026-11-19 👌🚀💯 is a Python NLP Library for Many Human Languages
-* [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 797 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,916 | 🐛 103 | 🌐 Python | 📅 2026-11-20 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 194 | 🐛 3 | 🌐 Python | 📅 2026-11-16 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2026-11-07 👌💯 is a text processing system with inter-module communication via tsv + REST API
 * [huNLP](https://github.com/oroszgy/hunlp) ⚠️ Archived 👌💯 An experimental unified Java and REST API for magyarlanc and szegedNER
@@ -167,11 +167,11 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Word embeddings
 
-* [wordvectors](https://github.com/Kyubyong/wordvectors) ⭐ 2,237 | 🐛 19 | 🌐 Python | 📅 2018-10-11 Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages 🏛️
+* [wordvectors](https://github.com/Kyubyong/wordvectors) ⭐ 2,236 | 🐛 19 | 🌐 Python | 📅 2018-10-11 Pre-trained word2vec and fasttext word vectors on wikipedia of 30+ languages 🏛️
 * [ELMo Representations](https://github.com/HIT-SCIR/ELMoForManyLangs) ⭐ 1,459 | 🐛 53 | 🌐 Python | 📅 2021-05-19 Deep contextualized word representation trained for many languages 🏛️
 * [Conceptnet Numberbatch](https://github.com/commonsense/conceptnet-numberbatch) ⭐ 1,321 | 🐛 10 | 🌐 Python | 📅 2022-07-18 Conceptnet numberbatch multi- and cross-lingual semantic word embeddings
-* [BytePair Embeddings](https://github.com/bheinzerling/bpemb) ⭐ 1,229 | 🐛 6 | 🌐 Python | 📅 2024-10-01 pretrained subword embeddings, including Hungarian, downloadable in many formats
-* [FastText\_multilingual](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,202 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 Multilingual word vectors in 78 languages
+* [BytePair Embeddings](https://github.com/bheinzerling/bpemb) ⭐ 1,228 | 🐛 6 | 🌐 Python | 📅 2024-10-01 pretrained subword embeddings, including Hungarian, downloadable in many formats
+* [FastText\_multilingual](https://github.com/Babylonpartners/fastText_multilingual) ⭐ 1,201 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2023-03-10 Multilingual word vectors in 78 languages
 * [fastText Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html) pre-trained word vectors for 90 languages, trained on Wikipedia using fastText.
 * [fastText Common Crawl & Wikipedia](https://fasttext.cc/docs/en/crawl-vectors.html) pre-trained word vectors for 157 languages, trained on Wikipedia and the Common Crawl using fastText's CBOW model.
 * [polyglot vectors](https://sites.google.com/site/rmyeid/projects/polyglot) polyglot embeddings on Wikipedia
@@ -204,7 +204,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### General multilingual large language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,552 | 🐛 175 | 🌐 Python | 📅 2026-10-29)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,553 | 🐛 175 | 🌐 Python | 📅 2026-10-29)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -309,7 +309,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### Parallel corpora
 
-* [MASSIVE dataset](https://github.com/alexa/massive) ⭐ 578 | 🐛 4 | 🌐 Python | 📅 2022-11-28 is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
+* [MASSIVE dataset](https://github.com/alexa/massive) ⭐ 577 | 🐛 4 | 🌐 Python | 📅 2022-11-28 is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
 * [Hungarian-Russian Prisoner of War Database](https://github.com/dlt-rilmta/hadifogoly-adatbazis) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-05-03
 * [parallelbible](https://github.com/nytud/parallelbible) ⭐ 1 | 🐛 2 | 📅 2025-04-29 The Parallel Bible Corpus is based on the historical text material of the Old Hungarian Corpus, as its database contains all of the Old and Middle Hungarian Bible translations which are available in this corpus. The King James Bible and three Finnish translations are included in the database as well.
 * [PWS](https://github.com/nytud/PWS) ⭐ 0 | 🐛 0 | 🌐 TeX | 📅 2023-02-07 is a parallel collection of the Winograd schemas in seven languages (including Hungarian)
@@ -351,7 +351,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Geo data
 
-* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,287 | 🐛 463 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,287 | 🐛 463 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
+* [Natural-earth-vector](https://github.com/nvkelso/natural-earth-vector) ⭐ 2,286 | 🐛 463 | 🌐 HTML | 📅 2024-04-22 ([`name_hu`](https://github.com/nvkelso/natural-earth-vector/blob/master/packages/Natural_Earth_quick_start/LOCALIZATION.md) ⭐ 2,286 | 🐛 463 | 🌐 HTML | 📅 2024-04-22 imported from wikidata labels)
 * [Who's On First](https://whosonfirst.org/) is a gazetteer of places (with [Hungarian administrative places](https://github.com/whosonfirst-data/whosonfirst-data-admin-hu) ⭐ 1 | 🐛 5 | 🌐 Makefile | 📅 2024-03-05 )
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/)
   In [Hungary](https://download.geofabrik.de/europe/hungary.html) the [`name`](https://wiki.openstreetmap.org/wiki/Key:name) keys, [otherwise](https://planet.openstreetmap.org/) the [\*name:hu](https://taginfo.openstreetmap.org/search?q=name%3Ahu)
@@ -400,7 +400,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Courses
 
-* [NLP and Foundation Models lecture slides (ELTE)](https://github.com/elte-nlp/elte-nlp-course) ⭐ 45 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-11-14
+* [NLP and Foundation Models lecture slides (ELTE)](https://github.com/elte-nlp/elte-nlp-course) ⭐ 45 | 🐛 28 | 🌐 Jupyter Notebook | 📅 2026-11-19
 * [NLP course materials in Hungarian (University of Debrecen)](https://github.com/Clinical-Bioinformatics-Debrecen/nlp_magyar_2025) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2025-12-12
 * [NLP Courses by the University Of Szeged](https://www.inf.u-szeged.hu/~rfarkas/hallgatok.html)
 * [NLP Courses by the HLT Group of the Budapest University of Technology](https://hlt.bme.hu/hu/courses)
@@ -428,4 +428,4 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

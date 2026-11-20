@@ -66,8 +66,8 @@
                 "id": 330707034,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T17:45:55Z",
-                "open_issues": 8,
+                "last_commit": "2026-11-19T14:57:11Z",
+                "open_issues": 5,
                 "owner": "adbar",
                 "repo": "simplemma",
                 "stars": 219,
@@ -386,11 +386,11 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T00:35:32Z",
-                "open_issues": 104,
+                "last_commit": "2026-11-20T01:51:20Z",
+                "open_issues": 103,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7917,
+                "stars": 7916,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -422,7 +422,7 @@
                 "open_issues": 41,
                 "owner": "nlp-uoregon",
                 "repo": "trankit",
-                "stars": 797,
+                "stars": 796,
                 "topics": [
                   "adapters",
                   "artificial-intelligence",
@@ -1133,7 +1133,7 @@
                 "open_issues": 19,
                 "owner": "Kyubyong",
                 "repo": "wordvectors",
-                "stars": 2237,
+                "stars": 2236,
                 "topics": [
                   "fasttext",
                   "language",
@@ -1205,7 +1205,7 @@
                 "open_issues": 6,
                 "owner": "bheinzerling",
                 "repo": "bpemb",
-                "stars": 1229,
+                "stars": 1228,
                 "topics": [
                   "embeddings",
                   "multilingual",
@@ -1232,7 +1232,7 @@
                 "open_issues": 11,
                 "owner": "babylonhealth",
                 "repo": "fastText_multilingual",
-                "stars": 1202,
+                "stars": 1201,
                 "topics": [
                   "distributed-representations",
                   "machine-learning",
@@ -1269,7 +1269,7 @@
                     "open_issues": 175,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20552,
+                    "stars": 20553,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1787,7 +1787,7 @@
                     "open_issues": 4,
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 578,
+                    "stars": 577,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2070,7 +2070,7 @@
                 "open_issues": 463,
                 "owner": "nvkelso",
                 "repo": "natural-earth-vector",
-                "stars": 2287,
+                "stars": 2286,
                 "topics": [
                   "dataset",
                   "gis",
@@ -2158,7 +2158,7 @@
                 "id": 309086559,
                 "language": "Jupyter Notebook",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-14T09:57:12Z",
+                "last_commit": "2026-11-19T14:00:00Z",
                 "open_issues": 28,
                 "owner": "elte-nlp",
                 "repo": "elte-nlp-course",
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T07:59:52.975Z",
+    "last_updated": "2026-11-20T07:49:36.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
