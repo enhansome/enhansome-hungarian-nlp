@@ -386,7 +386,7 @@
                 "id": 104854615,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T21:31:40Z",
+                "last_commit": "2026-11-27T00:49:53Z",
                 "open_issues": 103,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
@@ -1133,7 +1133,7 @@
                 "open_issues": 19,
                 "owner": "Kyubyong",
                 "repo": "wordvectors",
-                "stars": 2236,
+                "stars": 2235,
                 "topics": [
                   "fasttext",
                   "language",
@@ -1184,7 +1184,7 @@
                 "open_issues": 10,
                 "owner": "commonsense",
                 "repo": "conceptnet-numberbatch",
-                "stars": 1322,
+                "stars": 1323,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1266,10 +1266,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-29T16:42:13Z",
-                    "open_issues": 176,
+                    "open_issues": 175,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20571,
+                    "stars": 20572,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:56:51.339Z",
+    "last_updated": "2026-11-27T09:09:40.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
