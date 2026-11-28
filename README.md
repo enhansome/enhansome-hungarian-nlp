@@ -74,7 +74,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Morphology
 
-* [Simplemma](https://github.com/adbar/simplemma) ⭐ 219 | 🐛 5 | 🌐 Python | 📅 2026-11-19 👌🚀💯 is a simple multilingual lemmatizer for Python
+* [Simplemma](https://github.com/adbar/simplemma) ⭐ 220 | 🐛 7 | 🌐 Python | 📅 2026-11-27 👌🚀💯 is a simple multilingual lemmatizer for Python
 * [emMorph (Humor)](https://github.com/dlt-rilmta/emMorph) ⭐ 18 | 🐛 4 | 🌐 Perl | 📅 2022-01-20 💯 Hungarian morphological analyzer based on Humor
 * [SampoNLP](https://github.com/AragonerUA/SampoNLP) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2025-12-11 👌🚀💯 Unsupervised morpheme discovery for Uralic languages including Hungarian, with a Rust core
 * [hunmorph-foma](https://github.com/r0ller/hunmorph-foma) ⭐ 6 | 🐛 0 | 🌐 Makefile | 📅 2016-02-24 🚀💯 Hungarian morphological analyzer and generator based on hunmorph.
@@ -99,7 +99,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Pipelines with Hungarian NLP components
 
-* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,923 | 🐛 103 | 🌐 Python | 📅 2026-11-27 👌🚀💯 is a Python NLP Library for Many Human Languages
+* [Stanza](https://github.com/stanfordnlp/stanza) ⭐ 7,925 | 🐛 103 | 🌐 Python | 📅 2026-11-27 👌🚀💯 is a Python NLP Library for Many Human Languages
 * [trankit](https://github.com/nlp-uoregon/trankit) ⭐ 796 | 🐛 41 | 🌐 Python | 📅 2025-07-22 👌🚀💯 A Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 * [HuSpaCy](https://github.com/huspacy/huspacy) ⭐ 195 | 🐛 3 | 🌐 Python | 📅 2026-11-16 👌🚀💯 Industrial-strength Hungarian Natural Language Processing
 * [emtsv](https://github.com/dlt-rilmta/emtsv) ⭐ 33 | 🐛 7 | 🌐 Python | 📅 2026-11-07 👌💯 is a text processing system with inter-module communication via tsv + REST API
@@ -115,7 +115,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ### Syntactic parsers
 
-* [benepar](https://github.com/nikitakit/self-attentive-parser) ⭐ 914 | 🐛 49 | 🌐 Python | 📅 2022-01-10 👌🚀💯🏛️ A high-accuracy parser with models for 11 languages, implemented in Python. Based on Constituency Parsing with a Self-Attentive Encoder from ACL 2018.
+* [benepar](https://github.com/nikitakit/self-attentive-parser) ⭐ 913 | 🐛 49 | 🌐 Python | 📅 2022-01-10 👌🚀💯🏛️ A high-accuracy parser with models for 11 languages, implemented in Python. Based on Constituency Parsing with a Self-Attentive Encoder from ACL 2018.
 * [HunParse](https://github.com/recski/HunParse) ⭐ 4 | 🐛 0 | 📅 2012-08-17 🚀💯🏛️ An NLTK-based parser using KR-style morphological annotation
 * [Anagramma Parser](https://github.com/ppke-nlpg/AnaGramma-Parser) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2018-11-12 A parser based on psycholinguistics principles
 * [hunpars](http://mokk.bme.hu/resources/hunpars/) 🚀💯 A rule based Hungarian syntactical analyzer
@@ -204,7 +204,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### General multilingual large language models
 
-* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,572 | 🐛 175 | 🌐 Python | 📅 2026-10-29)
+* [gpt-oss](https://gpt-oss.com/) is a multilingual LLM that also speaks Hungarian([Hugging Face](https://huggingface.co/openai/gpt-oss-120b), [GitHub](https://github.com/openai/gpt-oss) ⭐ 20,573 | 🐛 175 | 🌐 Python | 📅 2026-10-29)
 * [Google Gemma 3](https://huggingface.co/blog/gemma3) is a multilingual LLM that also speaks Hungarian
 * [EuroLLM](https://huggingface.co/utter-project/models) is a multilingual LLM that also speaks Hungarian
 
@@ -309,7 +309,7 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 #### Parallel corpora
 
-* [MASSIVE dataset](https://github.com/alexa/massive) ⭐ 578 | 🐛 4 | 🌐 Python | 📅 2022-11-28 is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
+* [MASSIVE dataset](https://github.com/alexa/massive) ⭐ 579 | 🐛 4 | 🌐 Python | 📅 2022-11-28 is a parallel dataset of > 1M utterances across 51 languages with annotations for the Natural Language Understanding tasks of intent prediction and slot annotation.
 * [Hungarian-Russian Prisoner of War Database](https://github.com/dlt-rilmta/hadifogoly-adatbazis) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2021-05-03
 * [parallelbible](https://github.com/nytud/parallelbible) ⭐ 1 | 🐛 2 | 📅 2025-04-29 The Parallel Bible Corpus is based on the historical text material of the Old Hungarian Corpus, as its database contains all of the Old and Middle Hungarian Bible translations which are available in this corpus. The King James Bible and three Finnish translations are included in the database as well.
 * [PWS](https://github.com/nytud/PWS) ⭐ 0 | 🐛 0 | 🌐 TeX | 📅 2023-02-07 is a parallel collection of the Winograd schemas in seven languages (including Hungarian)
@@ -428,4 +428,4 @@ Sections are split by artifact type: **Tools** are task-specific systems you can
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._

@@ -66,11 +66,11 @@
                 "id": 330707034,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T14:57:11Z",
-                "open_issues": 5,
+                "last_commit": "2026-11-27T11:32:36Z",
+                "open_issues": 7,
                 "owner": "adbar",
                 "repo": "simplemma",
-                "stars": 219,
+                "stars": 220,
                 "topics": [
                   "corpus-tools",
                   "language-detection",
@@ -390,7 +390,7 @@
                 "open_issues": 103,
                 "owner": "stanfordnlp",
                 "repo": "stanza",
-                "stars": 7923,
+                "stars": 7925,
                 "topics": [
                   "artificial-intelligence",
                   "corenlp",
@@ -658,7 +658,7 @@
                 "open_issues": 49,
                 "owner": "nikitakit",
                 "repo": "self-attentive-parser",
-                "stars": 914,
+                "stars": 913,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -1269,7 +1269,7 @@
                     "open_issues": 175,
                     "owner": "openai",
                     "repo": "gpt-oss",
-                    "stars": 20572,
+                    "stars": 20573,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -1787,7 +1787,7 @@
                     "open_issues": 4,
                     "owner": "alexa",
                     "repo": "massive",
-                    "stars": 578,
+                    "stars": 579,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T12:16:47.418Z"
@@ -2348,7 +2348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:09:40.442Z",
+    "last_updated": "2026-11-28T08:30:09.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of NLP resources for Hungarian",
